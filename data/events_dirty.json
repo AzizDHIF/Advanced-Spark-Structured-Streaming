@@ -1,0 +1,1000 @@
+{"device_id": "sensor-47", "event_time": "2025-12-17T12:31:07.062632", "country": "FR"}
+{"device_id": "sensor-31", "event_time": "2025-12-17T12:54:07.063068", "temperature": -999, "country": "France"}
+{"device_id": null, "event_time": "2025-12-17T11:50:07.063088", "temperature": -9.28, "country": "123"}
+THIS_IS_NOT_JSON
+{"device_id": "sensor-42", "event_time": "2025-12-17T13:12:07.063106", "temperature": 37.72, "country": ""}
+THIS_IS_NOT_JSON
+{"device_id": "sensor-13", "event_time": "2025-12-17T12:06:07.063118", "temperature": -999, "country": "FR"}
+{"device_id": "sensor-4", "event_time": "2025-12-17T11:42:07.063126", "temperature": 24.0, "country": "Germnay", "debug": "IBVYV"}
+{"device_id": "sensor-24", "event_time": "2025-12-17T12:02:07.063140", "country": "france"}
+{"device_id": "sensor-2", "event_time": "2025-12-17T11:32:07.063147", "temperature": "hot", "country": "france"}
+{"device_id": "sensor-1", "event_time": "2025-12-17T12:58:07.063154", "temperature": -999, "country": null}
+{"meta": {"id": "sensor-6", "country": "Germnay"}, "temp": 43.87}
+{"this_is": "broken"
+{"device_id": "sensor-23", "event_time": "2025-12-17T11:48:07.063174", "country": "Germnay"}
+THIS_IS_NOT_JSON
+{"device_id": "sensor-23", "event_time": "2025-12-17T12:41:07.063185", "temperature": "hot", "country": "France"}
+{"device_id": "sensor-25", "event_time": "2025-12-17T11:57:07.063191", "temperature": -999, "country": "United States"}
+{"device_id": "sensor-2", "event_time": "2025-12-17T11:42:07.063198", "country": null}
+{"device_id": "sensor-13", "event_time": "2025-12-17T12:29:07.063204", "temperature": 20.83, "country": "123"}
+{"device_id": "sensor-42", "event_time": "2025-12-17T13:17:07.063211", "temperature": "37.53", "country": "USA"}
+{"device_id": "sensor-15", "event_time": "2025-12-17T12:19:07.063218", "temperature": -999, "country": ""}
+{"device_id": "sensor-46", "event_time": "2025-12-17T12:57:07.063232", "temperature": "29.63", "country": "USA"}
+{"meta": {"id": "sensor-26", "country": null}, "temp": 24.81}
+{"device_id": "sensor-6", "event_time": "2025-12-17T12:47:07.063254", "temperature": "9.42", "country": "france"}
+{"device_id": "sensor-26", "event_time": "2025-12-17T12:59:07.063261", "temperature": -999, "country": "United States"}
+{"device_id": "sensor-17", "event_time": "2025-12-17T12:07:07.063268", "country": "france"}
+{"device_id": "sensor-38", "event_time": "2025-12-17T13:03:07.063274", "temperature": -6.5, "country": ""}
+{"device_id": "sensor-9", "event_time": "2025-12-17T12:04:07.063281", "temperature": 39.35, "country": "123"}
+{"device_id": "sensor-46", "event_time": "2025-12-17T13:25:07.063288", "temperature": -999, "country": "Germnay"}
+{"device_id": "sensor-36", "event_time": "2025-12-17T11:55:07.063295", "temperature": 3.93, "country": "123"}
+{"device_id": "sensor-25", "event_time": "2025-12-17T13:20:07.063302", "temperature": "17.21", "country": "FR"}
+{"device_id": "sensor-4", "event_time": "2025-12-17T13:04:07.063309", "temperature": 35.9, "country": null, "debug": "LSBlv"}
+{"this_is": "broken"
+{"device_id": null, "event_time": "2025-12-17T13:27:07.063324", "temperature": 59.72, "country": ""}
+{"this_is": "broken"
+{"meta": {"id": "sensor-32", "country": ""}, "temp": 32.54}
+{"device_id": "sensor-28", "event_time": "2025-12-17T11:45:07.063343", "temperature": "25.1", "country": "france"}
+{"this_is": "broken"
+{"device_id": "sensor-4", "event_time": "2025-12-17T12:20:07.063354", "temperature": "hot", "country": "USA"}
+{"device_id": "sensor-41", "event_time": "2025-12-17T12:02:07.063361", "temperature": "hot", "country": "United States"}
+{"device_id": "sensor-46", "event_time": "2025-12-17T12:46:07.063367", "country": null}
+{"device_id": "sensor-14", "event_time": "2025-12-17T12:45:07.063373", "temperature": 44.25, "country": "USA"}
+{"device_id": "sensor-23", "event_time": "2025-12-17T12:06:07.063380", "temperature": 8.87, "country": "FR"}
+{"device_id": null, "event_time": "2025-12-17T12:17:07.063386", "temperature": 31.88, "country": "France"}
+{"meta": {"id": "sensor-23", "country": "USA"}, "temp": 44.52}
+{"device_id": "sensor-40", "event_time": "2025-12-17T12:38:07.063400", "country": "Sp@in"}
+{"this_is": "broken"
+{"device_id": "sensor-42", "event_time": "2025-12-17T11:38:07.063410", "temperature": "14.62", "country": "france"}
+{"device_id": "sensor-24", "event_time": "2025-12-17T12:18:07.063417", "temperature": "23.04", "country": "Sp@in"}
+THIS_IS_NOT_JSON
+{"device_id": "sensor-22", "event_time": "2025-12-17T13:03:07.063428", "temperature": "hot", "country": "USA"}
+{"device_id": "sensor-9", "event_time": "2025-12-17T12:55:07.063434", "country": ""}
+{"device_id": "sensor-21", "event_time": "2025-12-17T12:10:07.063440", "temperature": "58.52", "country": "United States"}
+{"device_id": null, "event_time": "2025-12-17T13:10:07.063447", "temperature": 55.84, "country": "france"}
+{"device_id": "sensor-16", "event_time": "2025-12-17T12:41:07.063454", "temperature": 8.42, "country": "france"}
+{"device_id": "sensor-33", "event_time": "2025-12-17T12:50:07.063460", "temperature": 19.57, "country": "France"}
+THIS_IS_NOT_JSON
+{"device_id": "sensor-45", "event_time": "2025-12-17T11:48:07.063471", "temperature": "47.75", "country": "Sp@in"}
+{"device_id": null, "event_time": "2025-12-17T12:27:07.063478", "temperature": 58.13, "country": "USA"}
+{"meta": {"id": "sensor-4", "country": "123"}, "temp": 54.22}
+{"device_id": "sensor-11", "event_time": "2025-12-17T11:49:07.063491", "temperature": 40.53, "country": "Germnay"}
+{"device_id": "sensor-21", "event_time": "2025-12-17T13:22:07.063498", "temperature": 26.99, "country": "france", "debug": "YiMWJ"}
+{"meta": {"id": "sensor-49", "country": "FR"}, "temp": -7.23}
+{"device_id": "sensor-1", "event_time": "2025-12-17T12:28:07.063518", "temperature": 30.66, "country": "france", "debug": "BwyYR"}
+{"this_is": "broken"
+{"device_id": "sensor-34", "event_time": "2025-12-17T13:18:07.063531", "country": null}
+{"device_id": "sensor-10", "event_time": "2025-12-17T12:10:07.063538", "temperature": -4.5, "country": null, "debug": "yBFCl"}
+THIS_IS_NOT_JSON
+{"device_id": "sensor-30", "event_time": "2025-12-17T11:54:07.063550", "temperature": 54.36, "country": "Germnay"}
+{"device_id": "sensor-38", "event_time": "2025-12-17T13:22:07.063557", "temperature": "hot", "country": ""}
+{"meta": {"id": "sensor-30", "country": "123"}, "temp": -3.15}
+{"device_id": "sensor-23", "event_time": "2025-12-17T12:57:07.063570", "temperature": 20.13, "country": "United States", "debug": "XlAIo"}
+{"device_id": "sensor-47", "event_time": "2025-12-17T12:11:07.063578", "temperature": 33.02, "country": "United States"}
+THIS_IS_NOT_JSON
+{"device_id": "sensor-31", "event_time": "2025-12-17T13:08:07.063590", "temperature": -999, "country": "123"}
+{"device_id": null, "event_time": "2025-12-17T12:07:07.063596", "temperature": 54.35, "country": "USA"}
+{"device_id": "sensor-24", "event_time": "2025-12-17T12:11:07.063602", "temperature": 54.27, "country": "france", "debug": "uRYXT"}
+{"device_id": "sensor-13", "event_time": "2025-12-17T11:46:07.063615", "temperature": "hot", "country": "United States"}
+{"device_id": "sensor-5", "event_time": "2025-12-17T12:54:07.063621", "temperature": "43.82", "country": ""}
+{"device_id": "sensor-6", "event_time": "2025-12-17T11:47:07.063628", "temperature": -1.74, "country": "France", "debug": "cJQza"}
+{"device_id": "sensor-21", "event_time": "2025-12-17T13:19:07.063635", "country": "France"}
+THIS_IS_NOT_JSON
+{"this_is": "broken"
+{"device_id": "sensor-14", "event_time": "2025-12-17T13:21:07.063650", "country": ""}
+{"device_id": "sensor-35", "event_time": "2025-12-17T11:57:07.063656", "temperature": "hot", "country": ""}
+{"device_id": "sensor-36", "event_time": "2025-12-17T12:27:07.063663", "temperature": -999, "country": "Sp@in"}
+THIS_IS_NOT_JSON
+{"meta": {"id": "sensor-25", "country": "Germnay"}, "temp": 33.72}
+{"device_id": "sensor-28", "event_time": "2025-12-17T11:47:07.063680", "temperature": "28.65", "country": "123"}
+{"device_id": "sensor-12", "event_time": "2025-12-17T12:20:07.063687", "temperature": 18.26, "country": "United States"}
+THIS_IS_NOT_JSON
+{"device_id": "sensor-48", "event_time": "2025-12-17T12:39:07.063849", "country": "France"}
+{"device_id": "sensor-43", "event_time": "2025-12-17T11:34:07.063858", "temperature": "8.36", "country": "France"}
+{"device_id": "sensor-18", "event_time": "2025-12-17T12:27:07.063866", "temperature": -999, "country": "FR"}
+{"meta": {"id": "sensor-19", "country": "USA"}, "temp": -0.61}
+{"device_id": "sensor-30", "event_time": "2025-12-17T12:02:07.063880", "temperature": "hot", "country": "France"}
+{"device_id": "sensor-36", "event_time": "2025-12-17T12:00:07.063886", "temperature": 5.03, "country": "france"}
+{"device_id": "sensor-47", "event_time": "2025-12-17T12:43:07.063893", "country": ""}
+{"device_id": "sensor-10", "event_time": "2025-12-17T12:27:07.063899", "country": "Germnay"}
+{"device_id": "sensor-23", "event_time": "2025-12-17T12:51:07.063905", "country": "France"}
+THIS_IS_NOT_JSON
+{"device_id": "sensor-4", "event_time": "2025-12-17T12:53:07.063916", "temperature": -999, "country": "123"}
+{"device_id": "sensor-44", "event_time": "2025-12-17T13:23:07.063923", "temperature": "hot", "country": "United States"}
+{"device_id": "sensor-36", "event_time": "2025-12-17T12:03:07.063929", "temperature": -999, "country": "france"}
+{"device_id": "sensor-9", "event_time": "2025-12-17T11:45:07.063935", "country": "123"}
+{"device_id": "sensor-33", "event_time": "2025-12-17T11:57:07.063942", "temperature": -999, "country": "USA"}
+{"device_id": "sensor-49", "event_time": "2025-12-17T11:54:07.063948", "temperature": "hot", "country": "Germnay"}
+THIS_IS_NOT_JSON
+{"device_id": "sensor-13", "event_time": "2025-12-17T12:26:07.063958", "temperature": -999, "country": "Sp@in"}
+{"device_id": "sensor-24", "event_time": "2025-12-17T12:54:07.063965", "temperature": "42.46", "country": "123"}
+{"device_id": "sensor-4", "event_time": "2025-12-17T12:17:07.063972", "temperature": "hot", "country": "USA"}
+{"meta": {"id": "sensor-28", "country": "FR"}, "temp": 7.97}
+THIS_IS_NOT_JSON
+{"device_id": "sensor-33", "event_time": "2025-12-17T13:16:07.063989", "temperature": "hot", "country": "Germnay"}
+{"device_id": "sensor-48", "event_time": "2025-12-17T11:37:07.063995", "temperature": -999, "country": "USA"}
+{"this_is": "broken"
+{"device_id": "sensor-15", "event_time": "2025-12-17T12:07:07.064006", "temperature": "hot", "country": ""}
+{"device_id": "sensor-23", "event_time": "2025-12-17T13:11:07.064012", "temperature": "39.15", "country": "FR"}
+{"device_id": null, "event_time": "2025-12-17T13:19:07.064018", "temperature": 28.71, "country": "Sp@in"}
+{"this_is": "broken"
+{"this_is": "broken"
+{"device_id": "sensor-19", "event_time": "2025-12-17T13:18:07.064034", "country": "Germnay"}
+{"device_id": "sensor-41", "event_time": "2025-12-17T12:32:07.064040", "country": "france"}
+{"device_id": "sensor-8", "event_time": "2025-12-17T11:46:07.064046", "temperature": "56.43", "country": "Germnay"}
+{"device_id": "sensor-39", "event_time": "2025-12-17T12:25:07.064053", "temperature": 40.22, "country": "FR", "debug": "nughe"}
+{"device_id": "sensor-18", "event_time": "2025-12-17T11:30:07.064062", "temperature": "1.59", "country": "France"}
+{"device_id": "sensor-31", "event_time": "2025-12-17T12:42:07.064069", "temperature": "25.85", "country": "france"}
+{"this_is": "broken"
+THIS_IS_NOT_JSON
+{"device_id": "sensor-5", "event_time": "2025-12-17T12:04:07.064084", "temperature": 35.74, "country": "FR"}
+{"device_id": "sensor-17", "event_time": "2025-12-17T13:17:07.064090", "temperature": "38.06", "country": "France"}
+{"this_is": "broken"
+{"device_id": "sensor-1", "event_time": "2025-12-17T12:44:07.064101", "temperature": "hot", "country": "france"}
+THIS_IS_NOT_JSON
+{"device_id": "sensor-33", "event_time": "2025-12-17T12:43:07.064112", "temperature": "-7.32", "country": "France"}
+{"this_is": "broken"
+{"device_id": null, "event_time": "2025-12-17T12:34:07.064122", "temperature": 51.9, "country": "USA"}
+{"device_id": null, "event_time": "2025-12-17T12:51:07.064129", "temperature": 11.47, "country": null}
+{"device_id": "sensor-3", "event_time": "2025-12-17T12:13:07.064136", "temperature": -999, "country": "Germnay"}
+{"device_id": "sensor-29", "event_time": "2025-12-17T13:29:07.064142", "temperature": 2.32, "country": ""}
+{"device_id": "sensor-28", "event_time": "2025-12-17T12:13:07.064149", "temperature": 27.36, "country": "Germnay"}
+THIS_IS_NOT_JSON
+{"device_id": "sensor-43", "event_time": "2025-12-17T12:23:07.064162", "temperature": 43.5, "country": "Sp@in"}
+THIS_IS_NOT_JSON
+{"device_id": "sensor-8", "event_time": "2025-12-17T11:39:07.064173", "temperature": 37.02, "country": null, "debug": "LBLcC"}
+{"device_id": "sensor-37", "event_time": "2025-12-17T11:46:07.064181", "temperature": "40.84", "country": "France"}
+{"device_id": "sensor-39", "event_time": "2025-12-17T11:46:07.064188", "country": "Sp@in"}
+{"device_id": "sensor-18", "event_time": "2025-12-17T13:02:07.064195", "temperature": "hot", "country": "FR"}
+{"device_id": null, "event_time": "2025-12-17T12:02:07.064201", "temperature": -5.03, "country": null}
+{"device_id": "sensor-47", "event_time": "2025-12-17T13:26:07.064208", "temperature": "hot", "country": "france"}
+{"device_id": "sensor-49", "event_time": "2025-12-17T13:29:07.064214", "country": "United States"}
+{"device_id": "sensor-37", "event_time": "2025-12-17T13:09:07.064221", "temperature": 20.43, "country": "Germnay", "debug": "DxFeH"}
+{"meta": {"id": "sensor-2", "country": null}, "temp": -3.07}
+{"device_id": "sensor-47", "event_time": "2025-12-17T12:18:07.064237", "temperature": "19.45", "country": ""}
+{"device_id": "sensor-17", "event_time": "2025-12-17T12:07:07.064248", "temperature": "56.35", "country": "123"}
+{"device_id": "sensor-31", "event_time": "2025-12-17T11:46:07.064257", "temperature": "42.81", "country": "france"}
+{"meta": {"id": "sensor-9", "country": "United States"}, "temp": 4.34}
+{"device_id": "sensor-41", "event_time": "2025-12-17T12:51:07.064271", "temperature": 30.37, "country": "Sp@in", "debug": "pzkjA"}
+{"device_id": "sensor-44", "event_time": "2025-12-17T12:57:07.064279", "temperature": 26.47, "country": "Sp@in", "debug": "pEWsi"}
+{"device_id": null, "event_time": "2025-12-17T12:54:07.064286", "temperature": 32.64, "country": null}
+{"device_id": "sensor-34", "event_time": "2025-12-17T11:35:07.064293", "temperature": "54.93", "country": null}
+THIS_IS_NOT_JSON
+{"meta": {"id": "sensor-50", "country": "USA"}, "temp": 51.04}
+{"device_id": "sensor-34", "event_time": "2025-12-17T13:20:07.064310", "temperature": -999, "country": "United States"}
+{"device_id": "sensor-32", "event_time": "2025-12-17T12:06:07.064317", "country": ""}
+{"device_id": "sensor-8", "event_time": "2025-12-17T12:39:07.064323", "country": "Sp@in"}
+{"device_id": "sensor-48", "event_time": "2025-12-17T12:26:07.064329", "temperature": 25.14, "country": "123", "debug": "zvStH"}
+{"device_id": "sensor-18", "event_time": "2025-12-17T12:34:07.064337", "temperature": "hot", "country": "Sp@in"}
+THIS_IS_NOT_JSON
+{"meta": {"id": "sensor-5", "country": "Sp@in"}, "temp": -5.37}
+{"device_id": "sensor-19", "event_time": "2025-12-17T13:26:07.064354", "country": "USA"}
+{"device_id": "sensor-14", "event_time": "2025-12-17T12:50:07.064360", "temperature": "hot", "country": "Germnay"}
+{"meta": {"id": "sensor-20", "country": null}, "temp": 58.37}
+{"device_id": "sensor-13", "event_time": "2025-12-17T13:18:07.064373", "temperature": 36.0, "country": "USA"}
+{"device_id": "sensor-29", "event_time": "2025-12-17T12:28:07.064380", "temperature": "12.85", "country": "Sp@in"}
+THIS_IS_NOT_JSON
+{"device_id": "sensor-7", "event_time": "2025-12-17T13:22:07.064391", "country": "123"}
+THIS_IS_NOT_JSON
+{"device_id": "sensor-34", "event_time": "2025-12-17T12:35:07.064401", "temperature": -999, "country": ""}
+{"device_id": "sensor-8", "event_time": "2025-12-17T12:33:07.064407", "temperature": 41.13, "country": "france"}
+{"device_id": "sensor-37", "event_time": "2025-12-17T12:03:07.064413", "temperature": -999, "country": "france"}
+{"device_id": "sensor-9", "event_time": "2025-12-17T12:21:07.064420", "temperature": "hot", "country": "United States"}
+{"device_id": "sensor-6", "event_time": "2025-12-17T11:47:07.064462", "temperature": "hot", "country": "123"}
+{"device_id": "sensor-34", "event_time": "2025-12-17T13:08:07.064471", "temperature": "15.32", "country": null}
+{"device_id": "sensor-49", "event_time": "2025-12-17T11:41:07.064479", "temperature": "48.35", "country": "United States"}
+{"device_id": null, "event_time": "2025-12-17T12:26:07.064486", "temperature": 52.29, "country": "123"}
+{"device_id": "sensor-28", "event_time": "2025-12-17T11:39:07.064493", "country": null}
+{"device_id": "sensor-9", "event_time": "2025-12-17T11:45:07.064499", "temperature": -999, "country": null}
+THIS_IS_NOT_JSON
+{"meta": {"id": "sensor-49", "country": "France"}, "temp": -5.33}
+{"this_is": "broken"
+{"this_is": "broken"
+{"this_is": "broken"
+{"device_id": "sensor-34", "event_time": "2025-12-17T12:22:07.064530", "temperature": -999, "country": ""}
+{"device_id": null, "event_time": "2025-12-17T11:30:07.064537", "temperature": 15.29, "country": "United States"}
+{"device_id": "sensor-38", "event_time": "2025-12-17T11:44:07.064543", "temperature": "-7.56", "country": null}
+{"device_id": "sensor-9", "event_time": "2025-12-17T11:31:07.064550", "temperature": 8.47, "country": ""}
+{"device_id": "sensor-44", "event_time": "2025-12-17T13:18:07.064557", "temperature": -7.56, "country": "FR", "debug": "ITsUQ"}
+{"device_id": "sensor-45", "event_time": "2025-12-17T12:51:07.064565", "temperature": -999, "country": "France"}
+{"device_id": "sensor-41", "event_time": "2025-12-17T13:18:07.064572", "temperature": -999, "country": "France"}
+{"device_id": "sensor-39", "event_time": "2025-12-17T11:46:07.064578", "temperature": -1.18, "country": "123"}
+{"device_id": "sensor-7", "event_time": "2025-12-17T12:35:07.064584", "temperature": -999, "country": null}
+{"device_id": "sensor-39", "event_time": "2025-12-17T12:04:07.064591", "temperature": 5.58, "country": "FR", "debug": "akdum"}
+{"this_is": "broken"
+{"device_id": "sensor-48", "event_time": "2025-12-17T12:46:07.064603", "temperature": "39.51", "country": "FR"}
+THIS_IS_NOT_JSON
+{"meta": {"id": "sensor-16", "country": "Sp@in"}, "temp": 54.81}
+{"device_id": "sensor-2", "event_time": "2025-12-17T13:10:07.064621", "temperature": -999, "country": "france"}
+{"this_is": "broken"
+{"meta": {"id": "sensor-29", "country": "123"}, "temp": 33.29}
+{"device_id": "sensor-45", "event_time": "2025-12-17T11:39:07.064638", "country": "france"}
+THIS_IS_NOT_JSON
+{"device_id": "sensor-44", "event_time": "2025-12-17T13:14:07.064649", "temperature": "6.94", "country": null}
+THIS_IS_NOT_JSON
+{"device_id": "sensor-13", "event_time": "2025-12-17T11:58:07.064660", "temperature": 10.3, "country": "United States", "debug": "kBPMw"}
+{"device_id": "sensor-26", "event_time": "2025-12-17T13:15:07.064667", "country": "Germnay"}
+{"device_id": null, "event_time": "2025-12-17T12:50:07.064674", "temperature": 5.24, "country": "france"}
+{"device_id": "sensor-32", "event_time": "2025-12-17T12:30:07.064680", "country": "Germnay"}
+{"meta": {"id": "sensor-28", "country": ""}, "temp": 45.18}
+{"device_id": "sensor-27", "event_time": "2025-12-17T11:38:07.064693", "temperature": 44.39, "country": "USA"}
+{"device_id": "sensor-25", "event_time": "2025-12-17T12:08:07.064700", "temperature": "hot", "country": "United States"}
+{"device_id": null, "event_time": "2025-12-17T13:18:07.064706", "temperature": 55.92, "country": "France"}
+{"device_id": "sensor-6", "event_time": "2025-12-17T13:00:07.064713", "temperature": 54.36, "country": "Sp@in", "debug": "ewmiC"}
+{"device_id": "sensor-48", "event_time": "2025-12-17T12:08:07.064721", "temperature": "-8.81", "country": "USA"}
+{"device_id": "sensor-50", "event_time": "2025-12-17T13:24:07.064727", "temperature": -999, "country": "Germnay"}
+{"device_id": "sensor-25", "event_time": "2025-12-17T13:14:07.064734", "temperature": 35.2, "country": "Sp@in", "debug": "idsVh"}
+{"device_id": "sensor-49", "event_time": "2025-12-17T13:17:07.064742", "temperature": -999, "country": "france"}
+{"meta": {"id": "sensor-12", "country": "france"}, "temp": 50.24}
+{"device_id": "sensor-48", "event_time": "2025-12-17T11:50:07.064754", "temperature": "hot", "country": "France"}
+{"device_id": "sensor-21", "event_time": "2025-12-17T12:45:07.064768", "country": "France"}
+{"device_id": "sensor-40", "event_time": "2025-12-17T11:57:07.064774", "temperature": "hot", "country": "France"}
+{"this_is": "broken"
+{"device_id": null, "event_time": "2025-12-17T13:21:07.064784", "temperature": -7.37, "country": "Sp@in"}
+{"device_id": "sensor-17", "event_time": "2025-12-17T11:48:07.064791", "temperature": 46.03, "country": "USA"}
+{"device_id": "sensor-39", "event_time": "2025-12-17T12:39:07.064797", "temperature": 35.35, "country": "United States"}
+{"device_id": null, "event_time": "2025-12-17T11:41:07.064804", "temperature": -8.38, "country": "USA"}
+{"device_id": "sensor-43", "event_time": "2025-12-17T11:40:07.064810", "temperature": "-5.98", "country": "France"}
+{"meta": {"id": "sensor-23", "country": "United States"}, "temp": 42.05}
+{"device_id": "sensor-8", "event_time": "2025-12-17T13:16:07.064824", "temperature": 42.11, "country": ""}
+{"device_id": "sensor-43", "event_time": "2025-12-17T12:28:07.064831", "country": "Sp@in"}
+{"meta": {"id": "sensor-45", "country": "france"}, "temp": 59.27}
+{"device_id": "sensor-38", "event_time": "2025-12-17T13:01:07.064843", "temperature": 17.17, "country": "Germnay", "debug": "LBtpB"}
+{"meta": {"id": "sensor-38", "country": "FR"}, "temp": 1.07}
+{"device_id": "sensor-39", "event_time": "2025-12-17T11:51:07.064857", "temperature": -999, "country": ""}
+{"device_id": "sensor-20", "event_time": "2025-12-17T12:58:07.064864", "temperature": -999, "country": "France"}
+{"device_id": "sensor-41", "event_time": "2025-12-17T12:12:07.064870", "temperature": "43.43", "country": null}
+THIS_IS_NOT_JSON
+{"device_id": "sensor-31", "event_time": "2025-12-17T11:35:07.064881", "temperature": -999, "country": "France"}
+THIS_IS_NOT_JSON
+{"this_is": "broken"
+{"device_id": "sensor-17", "event_time": "2025-12-17T13:09:07.064896", "country": "France"}
+THIS_IS_NOT_JSON
+{"device_id": "sensor-27", "event_time": "2025-12-17T12:07:07.064907", "country": "france"}
+{"device_id": "sensor-39", "event_time": "2025-12-17T12:15:07.064913", "temperature": 38.46, "country": null, "debug": "AktQt"}
+{"this_is": "broken"
+{"device_id": "sensor-45", "event_time": "2025-12-17T11:41:07.064925", "temperature": -999, "country": "France"}
+{"device_id": "sensor-31", "event_time": "2025-12-17T12:33:07.064931", "temperature": "hot", "country": "FR"}
+{"meta": {"id": "sensor-19", "country": "France"}, "temp": -2.88}
+{"device_id": "sensor-13", "event_time": "2025-12-17T11:37:07.064945", "temperature": "7.59", "country": "United States"}
+{"device_id": "sensor-22", "event_time": "2025-12-17T12:11:07.064952", "temperature": 19.63, "country": "United States", "debug": "VIQCo"}
+THIS_IS_NOT_JSON
+{"device_id": "sensor-40", "event_time": "2025-12-17T12:09:07.064964", "temperature": -999, "country": "United States"}
+{"device_id": "sensor-1", "event_time": "2025-12-17T11:42:07.064971", "temperature": -999, "country": "FR"}
+THIS_IS_NOT_JSON
+{"device_id": null, "event_time": "2025-12-17T13:06:07.064981", "temperature": 26.14, "country": "france"}
+{"device_id": null, "event_time": "2025-12-17T11:45:07.064988", "temperature": 51.92, "country": "United States"}
+{"device_id": "sensor-42", "event_time": "2025-12-17T13:01:07.064994", "country": null}
+{"device_id": "sensor-3", "event_time": "2025-12-17T12:54:07.065000", "temperature": "11.95", "country": "Germnay"}
+{"device_id": "sensor-17", "event_time": "2025-12-17T12:14:07.065007", "temperature": "hot", "country": "Sp@in"}
+{"device_id": "sensor-29", "event_time": "2025-12-17T13:24:07.065013", "temperature": "hot", "country": "123"}
+THIS_IS_NOT_JSON
+{"device_id": "sensor-48", "event_time": "2025-12-17T12:13:07.065024", "temperature": 33.61, "country": "France", "debug": "iyQoK"}
+{"device_id": "sensor-43", "event_time": "2025-12-17T11:33:07.065031", "country": "france"}
+{"device_id": "sensor-32", "event_time": "2025-12-17T12:01:07.065037", "temperature": 7.88, "country": "france", "debug": "zhGiz"}
+{"meta": {"id": "sensor-25", "country": null}, "temp": 56.53}
+{"meta": {"id": "sensor-20", "country": "USA"}, "temp": 2.35}
+{"device_id": null, "event_time": "2025-12-17T11:45:07.065093", "temperature": 19.21, "country": "France"}
+{"device_id": "sensor-28", "event_time": "2025-12-17T12:05:07.065099", "temperature": "43.79", "country": "123"}
+{"device_id": "sensor-45", "event_time": "2025-12-17T11:44:07.065107", "temperature": "52.12", "country": ""}
+{"device_id": "sensor-25", "event_time": "2025-12-17T13:10:07.065113", "temperature": "42.68", "country": "Sp@in"}
+THIS_IS_NOT_JSON
+{"device_id": null, "event_time": "2025-12-17T11:48:07.065124", "temperature": 37.5, "country": "123"}
+{"device_id": "sensor-10", "event_time": "2025-12-17T13:29:07.065131", "temperature": "25.11", "country": ""}
+{"device_id": "sensor-47", "event_time": "2025-12-17T12:00:07.065138", "temperature": 32.25, "country": null, "debug": "aFvJY"}
+{"device_id": "sensor-28", "event_time": "2025-12-17T12:17:07.065146", "temperature": "hot", "country": "USA"}
+{"device_id": "sensor-25", "event_time": "2025-12-17T11:49:07.065153", "temperature": 46.08, "country": null, "debug": "Sbyuz"}
+{"device_id": "sensor-43", "event_time": "2025-12-17T13:29:07.065160", "temperature": -999, "country": "France"}
+{"device_id": "sensor-23", "event_time": "2025-12-17T13:22:07.065167", "temperature": "hot", "country": "france"}
+{"meta": {"id": "sensor-42", "country": "United States"}, "temp": -6.05}
+{"device_id": "sensor-38", "event_time": "2025-12-17T11:39:07.065181", "country": null}
+{"device_id": "sensor-15", "event_time": "2025-12-17T11:51:07.065188", "temperature": 28.71, "country": "france"}
+{"device_id": null, "event_time": "2025-12-17T13:05:07.065194", "temperature": 7.44, "country": "123"}
+{"device_id": "sensor-30", "event_time": "2025-12-17T12:15:07.065201", "temperature": -2.98, "country": "Sp@in", "debug": "qhzAs"}
+{"device_id": "sensor-40", "event_time": "2025-12-17T12:19:07.065209", "temperature": "59.06", "country": "France"}
+{"device_id": "sensor-24", "event_time": "2025-12-17T11:40:07.065216", "temperature": "hot", "country": null}
+THIS_IS_NOT_JSON
+{"device_id": null, "event_time": "2025-12-17T11:35:07.065226", "temperature": 6.94, "country": "France"}
+{"meta": {"id": "sensor-35", "country": "United States"}, "temp": 46.81}
+{"device_id": "sensor-6", "event_time": "2025-12-17T12:01:07.065240", "temperature": -999, "country": "USA"}
+{"device_id": "sensor-38", "event_time": "2025-12-17T12:56:07.065247", "country": ""}
+{"meta": {"id": "sensor-41", "country": "France"}, "temp": 59.84}
+{"device_id": "sensor-13", "event_time": "2025-12-17T11:36:07.065259", "temperature": -999, "country": "123"}
+{"device_id": "sensor-50", "event_time": "2025-12-17T12:45:07.065266", "temperature": -999, "country": "France"}
+{"device_id": null, "event_time": "2025-12-17T11:41:07.065272", "temperature": 38.5, "country": "France"}
+{"device_id": null, "event_time": "2025-12-17T12:00:07.065279", "temperature": -7.24, "country": "Germnay"}
+{"meta": {"id": "sensor-6", "country": null}, "temp": -9.11}
+{"device_id": "sensor-37", "event_time": "2025-12-17T12:37:07.065293", "temperature": "25.12", "country": "France"}
+{"device_id": "sensor-27", "event_time": "2025-12-17T13:11:07.065299", "country": "Germnay"}
+{"device_id": "sensor-50", "event_time": "2025-12-17T12:25:07.065306", "temperature": -999, "country": "Sp@in"}
+{"device_id": "sensor-29", "event_time": "2025-12-17T12:00:07.065312", "temperature": "44.49", "country": "United States"}
+{"meta": {"id": "sensor-39", "country": "United States"}, "temp": 28.63}
+{"device_id": "sensor-14", "event_time": "2025-12-17T13:04:07.065326", "temperature": "hot", "country": "FR"}
+{"this_is": "broken"
+{"this_is": "broken"
+{"device_id": "sensor-40", "event_time": "2025-12-17T11:32:07.065341", "temperature": 7.39, "country": "Germnay"}
+THIS_IS_NOT_JSON
+{"device_id": "sensor-6", "event_time": "2025-12-17T11:31:07.065352", "temperature": -4.07, "country": "United States", "debug": "IbHcC"}
+{"device_id": "sensor-47", "event_time": "2025-12-17T11:43:07.065360", "country": ""}
+{"device_id": null, "event_time": "2025-12-17T11:40:07.065366", "temperature": -9.09, "country": "France"}
+{"meta": {"id": "sensor-29", "country": "france"}, "temp": 12.23}
+{"this_is": "broken"
+{"this_is": "broken"
+{"this_is": "broken"
+{"meta": {"id": "sensor-16", "country": "United States"}, "temp": 58.33}
+{"device_id": "sensor-46", "event_time": "2025-12-17T13:29:07.065400", "temperature": 23.59, "country": "United States", "debug": "HYzBl"}
+{"this_is": "broken"
+{"device_id": "sensor-41", "event_time": "2025-12-17T13:01:07.065412", "temperature": "56.44", "country": "Sp@in"}
+THIS_IS_NOT_JSON
+{"meta": {"id": "sensor-33", "country": null}, "temp": 35.77}
+{"device_id": "sensor-48", "event_time": "2025-12-17T12:47:07.065430", "country": "123"}
+{"device_id": "sensor-19", "event_time": "2025-12-17T12:04:07.065436", "temperature": 18.56, "country": null, "debug": "GorNT"}
+{"meta": {"id": "sensor-39", "country": "123"}, "temp": 45.46}
+{"this_is": "broken"
+{"device_id": null, "event_time": "2025-12-17T12:46:07.065455", "temperature": 12.69, "country": "france"}
+{"device_id": null, "event_time": "2025-12-17T12:50:07.065461", "temperature": 40.04, "country": "france"}
+{"device_id": "sensor-10", "event_time": "2025-12-17T13:02:07.065468", "temperature": 23.39, "country": "Germnay"}
+{"device_id": "sensor-28", "event_time": "2025-12-17T12:11:07.065475", "temperature": 39.01, "country": "Sp@in"}
+{"device_id": "sensor-11", "event_time": "2025-12-17T12:42:07.065481", "temperature": "-0.01", "country": null}
+{"meta": {"id": "sensor-14", "country": "USA"}, "temp": 52.95}
+{"device_id": "sensor-24", "event_time": "2025-12-17T11:36:07.065495", "temperature": 3.61, "country": "USA", "debug": "tBLPa"}
+{"device_id": "sensor-31", "event_time": "2025-12-17T12:34:07.065503", "temperature": "23.87", "country": "Sp@in"}
+THIS_IS_NOT_JSON
+THIS_IS_NOT_JSON
+{"device_id": null, "event_time": "2025-12-17T12:53:07.065518", "temperature": 47.21, "country": "USA"}
+{"device_id": "sensor-31", "event_time": "2025-12-17T12:47:07.065525", "temperature": -999, "country": "123"}
+{"device_id": "sensor-25", "event_time": "2025-12-17T12:29:07.065531", "temperature": -999, "country": null}
+{"meta": {"id": "sensor-49", "country": "United States"}, "temp": 5.03}
+THIS_IS_NOT_JSON
+{"device_id": "sensor-15", "event_time": "2025-12-17T12:53:07.065548", "temperature": "-9.51", "country": "Germnay"}
+THIS_IS_NOT_JSON
+{"this_is": "broken"
+{"meta": {"id": "sensor-12", "country": "france"}, "temp": 46.81}
+{"device_id": null, "event_time": "2025-12-17T11:39:07.065571", "temperature": 56.13, "country": "france"}
+{"device_id": "sensor-8", "event_time": "2025-12-17T11:58:07.065577", "temperature": "hot", "country": "Sp@in"}
+{"device_id": "sensor-23", "event_time": "2025-12-17T11:34:07.065583", "temperature": -999, "country": "United States"}
+{"this_is": "broken"
+{"device_id": "sensor-31", "event_time": "2025-12-17T11:48:07.065594", "temperature": -999, "country": null}
+{"this_is": "broken"
+{"device_id": null, "event_time": "2025-12-17T12:07:07.065605", "temperature": 37.78, "country": "france"}
+{"device_id": "sensor-2", "event_time": "2025-12-17T11:52:07.065611", "temperature": "30.45", "country": "123"}
+{"meta": {"id": "sensor-6", "country": ""}, "temp": 42.1}
+{"this_is": "broken"
+{"device_id": "sensor-34", "event_time": "2025-12-17T12:52:07.065629", "temperature": -999, "country": "Germnay"}
+THIS_IS_NOT_JSON
+{"device_id": "sensor-2", "event_time": "2025-12-17T12:32:07.065639", "temperature": 35.65, "country": "Germnay"}
+{"meta": {"id": "sensor-32", "country": "123"}, "temp": 42.2}
+{"device_id": "sensor-1", "event_time": "2025-12-17T11:37:07.065653", "temperature": "hot", "country": "FR"}
+{"device_id": "sensor-23", "event_time": "2025-12-17T12:33:07.065659", "temperature": 20.95, "country": null, "debug": "Mktnx"}
+{"device_id": null, "event_time": "2025-12-17T11:29:07.065667", "temperature": 40.08, "country": ""}
+{"device_id": null, "event_time": "2025-12-17T11:59:07.065673", "temperature": 8.67, "country": "france"}
+{"device_id": "sensor-46", "event_time": "2025-12-17T13:11:07.065691", "temperature": 23.59, "country": "Germnay"}
+{"this_is": "broken"
+{"device_id": "sensor-50", "event_time": "2025-12-17T13:29:07.065704", "country": "Sp@in"}
+{"this_is": "broken"
+{"device_id": "sensor-13", "event_time": "2025-12-17T11:29:07.065714", "temperature": "46.96", "country": "USA"}
+{"this_is": "broken"
+{"device_id": "sensor-11", "event_time": "2025-12-17T12:19:07.065725", "country": "FR"}
+{"device_id": "sensor-37", "event_time": "2025-12-17T12:36:07.065731", "country": "france"}
+{"device_id": "sensor-8", "event_time": "2025-12-17T13:26:07.065737", "temperature": -999, "country": "france"}
+THIS_IS_NOT_JSON
+{"device_id": "sensor-18", "event_time": "2025-12-17T11:56:07.065752", "temperature": "hot", "country": "FR"}
+{"device_id": "sensor-12", "event_time": "2025-12-17T11:41:07.065762", "temperature": 33.82, "country": "United States"}
+THIS_IS_NOT_JSON
+{"device_id": "sensor-33", "event_time": "2025-12-17T12:40:07.065787", "country": "United States"}
+{"device_id": "sensor-7", "event_time": "2025-12-17T13:10:07.065794", "temperature": "2.46", "country": ""}
+THIS_IS_NOT_JSON
+{"device_id": "sensor-9", "event_time": "2025-12-17T12:50:07.065805", "temperature": "27.9", "country": "United States"}
+{"device_id": "sensor-30", "event_time": "2025-12-17T11:42:07.065811", "temperature": -999, "country": "123"}
+{"device_id": "sensor-41", "event_time": "2025-12-17T11:57:07.065818", "temperature": 9.22, "country": "USA", "debug": "OdBkd"}
+{"device_id": "sensor-41", "event_time": "2025-12-17T12:34:07.065826", "temperature": -1.49, "country": "France"}
+THIS_IS_NOT_JSON
+{"device_id": "sensor-35", "event_time": "2025-12-17T13:12:07.065837", "country": "USA"}
+{"device_id": null, "event_time": "2025-12-17T13:13:07.065843", "temperature": -1.72, "country": "123"}
+{"device_id": "sensor-46", "event_time": "2025-12-17T12:06:07.065849", "temperature": 39.38, "country": ""}
+THIS_IS_NOT_JSON
+{"device_id": "sensor-26", "event_time": "2025-12-17T12:54:07.065861", "temperature": 59.08, "country": "France", "debug": "LqWTe"}
+{"device_id": "sensor-4", "event_time": "2025-12-17T12:55:07.065873", "temperature": 5.27, "country": "Sp@in", "debug": "TVwCb"}
+{"meta": {"id": "sensor-21", "country": "USA"}, "temp": -5.36}
+{"device_id": "sensor-3", "event_time": "2025-12-17T12:38:07.065887", "temperature": 55.59, "country": "United States", "debug": "EpePP"}
+{"meta": {"id": "sensor-24", "country": "france"}, "temp": 24.82}
+{"device_id": null, "event_time": "2025-12-17T12:20:07.065902", "temperature": 23.93, "country": "123"}
+{"device_id": "sensor-32", "event_time": "2025-12-17T12:20:07.065909", "temperature": 19.58, "country": "USA"}
+{"device_id": "sensor-41", "event_time": "2025-12-17T12:57:07.065915", "temperature": 8.03, "country": "Germnay", "debug": "sDPjz"}
+{"meta": {"id": "sensor-34", "country": null}, "temp": 33.47}
+{"device_id": "sensor-13", "event_time": "2025-12-17T11:43:07.065929", "temperature": 56.32, "country": "FR", "debug": "pMUZP"}
+THIS_IS_NOT_JSON
+{"device_id": "sensor-46", "event_time": "2025-12-17T13:26:07.065941", "temperature": -999, "country": null}
+{"device_id": "sensor-5", "event_time": "2025-12-17T12:02:07.065948", "temperature": "hot", "country": "USA"}
+{"device_id": "sensor-36", "event_time": "2025-12-17T12:04:07.065954", "temperature": -999, "country": "123"}
+{"device_id": "sensor-45", "event_time": "2025-12-17T11:46:07.065960", "temperature": "hot", "country": "Sp@in"}
+{"device_id": null, "event_time": "2025-12-17T12:36:07.065967", "temperature": 22.75, "country": "Germnay"}
+{"device_id": "sensor-31", "event_time": "2025-12-17T13:14:07.065973", "temperature": "44.04", "country": "United States"}
+{"device_id": null, "event_time": "2025-12-17T12:01:07.065980", "temperature": 17.96, "country": "United States"}
+{"device_id": null, "event_time": "2025-12-17T13:24:07.065986", "temperature": 16.54, "country": "Germnay"}
+THIS_IS_NOT_JSON
+{"this_is": "broken"
+{"device_id": "sensor-40", "event_time": "2025-12-17T11:43:07.066001", "country": "USA"}
+{"device_id": "sensor-29", "event_time": "2025-12-17T12:44:07.066007", "temperature": -999, "country": "France"}
+{"device_id": "sensor-49", "event_time": "2025-12-17T12:18:07.066013", "temperature": "9.2", "country": null}
+{"device_id": "sensor-37", "event_time": "2025-12-17T13:25:07.066020", "country": "USA"}
+{"meta": {"id": "sensor-46", "country": "France"}, "temp": 23.83}
+{"device_id": "sensor-24", "event_time": "2025-12-17T12:11:07.066033", "temperature": 38.09, "country": "france"}
+{"device_id": "sensor-9", "event_time": "2025-12-17T12:15:07.066039", "temperature": 28.06, "country": "france", "debug": "EOAtO"}
+{"device_id": "sensor-5", "event_time": "2025-12-17T11:39:07.066047", "temperature": -999, "country": "USA"}
+{"device_id": null, "event_time": "2025-12-17T12:23:07.066053", "temperature": 22.31, "country": "123"}
+{"device_id": "sensor-1", "event_time": "2025-12-17T12:20:07.066060", "temperature": -999, "country": "FR"}
+{"device_id": "sensor-32", "event_time": "2025-12-17T12:20:07.066066", "temperature": "hot", "country": "France"}
+{"device_id": "sensor-44", "event_time": "2025-12-17T11:47:07.066072", "temperature": "hot", "country": "france"}
+{"meta": {"id": "sensor-18", "country": ""}, "temp": 30.18}
+{"device_id": null, "event_time": "2025-12-17T12:17:07.066085", "temperature": 24.79, "country": "France"}
+{"this_is": "broken"
+{"device_id": "sensor-38", "event_time": "2025-12-17T11:44:07.066096", "country": "France"}
+{"device_id": null, "event_time": "2025-12-17T12:16:07.066102", "temperature": 59.83, "country": "USA"}
+{"meta": {"id": "sensor-38", "country": "Germnay"}, "temp": 9.19}
+{"device_id": "sensor-22", "event_time": "2025-12-17T11:44:07.066115", "country": ""}
+{"this_is": "broken"
+THIS_IS_NOT_JSON
+THIS_IS_NOT_JSON
+{"device_id": "sensor-16", "event_time": "2025-12-17T12:49:07.066134", "country": "123"}
+{"device_id": "sensor-36", "event_time": "2025-12-17T12:25:07.066140", "temperature": "14.19", "country": "123"}
+{"device_id": "sensor-32", "event_time": "2025-12-17T12:37:07.066147", "temperature": -999, "country": "United States"}
+{"this_is": "broken"
+{"device_id": "sensor-38", "event_time": "2025-12-17T12:26:07.066158", "temperature": 54.87, "country": "", "debug": "VaPus"}
+{"device_id": "sensor-40", "event_time": "2025-12-17T11:45:07.066165", "temperature": "-6.9", "country": "Sp@in"}
+THIS_IS_NOT_JSON
+{"device_id": "sensor-46", "event_time": "2025-12-17T12:34:07.066176", "temperature": "49.76", "country": "Germnay"}
+{"device_id": "sensor-20", "event_time": "2025-12-17T12:42:07.066183", "temperature": -999, "country": "123"}
+{"device_id": "sensor-42", "event_time": "2025-12-17T11:38:07.066190", "temperature": "hot", "country": "Germnay"}
+{"device_id": "sensor-5", "event_time": "2025-12-17T11:39:07.066196", "country": "United States"}
+{"this_is": "broken"
+{"device_id": null, "event_time": "2025-12-17T11:47:07.066206", "temperature": 51.5, "country": "france"}
+{"device_id": "sensor-31", "event_time": "2025-12-17T11:54:07.066213", "temperature": "hot", "country": "France"}
+{"device_id": "sensor-30", "event_time": "2025-12-17T11:49:07.066219", "temperature": "hot", "country": "USA"}
+{"meta": {"id": "sensor-19", "country": "France"}, "temp": 34.03}
+{"device_id": "sensor-10", "event_time": "2025-12-17T12:10:07.066231", "temperature": 5.41, "country": "FR", "debug": "AhDPm"}
+{"device_id": "sensor-43", "event_time": "2025-12-17T13:06:07.066239", "country": "France"}
+{"device_id": null, "event_time": "2025-12-17T12:40:07.066245", "temperature": 31.38, "country": "FR"}
+{"this_is": "broken"
+{"device_id": "sensor-13", "event_time": "2025-12-17T13:29:07.066256", "temperature": -999, "country": "USA"}
+{"device_id": "sensor-35", "event_time": "2025-12-17T13:25:07.066262", "temperature": -999, "country": "Sp@in"}
+{"device_id": null, "event_time": "2025-12-17T12:19:07.066269", "temperature": -6.15, "country": "Sp@in"}
+{"device_id": "sensor-11", "event_time": "2025-12-17T12:47:07.066275", "temperature": "hot", "country": "USA"}
+{"device_id": "sensor-42", "event_time": "2025-12-17T12:33:07.066281", "temperature": 37.97, "country": "123", "debug": "mAdDW"}
+{"device_id": "sensor-17", "event_time": "2025-12-17T13:23:07.066301", "temperature": 15.28, "country": "United States", "debug": "KQvBU"}
+{"device_id": null, "event_time": "2025-12-17T11:40:07.066310", "temperature": 13.51, "country": "Germnay"}
+{"device_id": "sensor-25", "event_time": "2025-12-17T13:03:07.066317", "country": "france"}
+{"device_id": null, "event_time": "2025-12-17T11:38:07.066323", "temperature": 26.84, "country": ""}
+THIS_IS_NOT_JSON
+{"device_id": "sensor-2", "event_time": "2025-12-17T13:23:07.066334", "temperature": -7.29, "country": "United States", "debug": "eVDMh"}
+{"device_id": "sensor-29", "event_time": "2025-12-17T12:05:07.066342", "temperature": "11.25", "country": "France"}
+{"device_id": "sensor-23", "event_time": "2025-12-17T11:47:07.066349", "temperature": 14.79, "country": null, "debug": "wFdcl"}
+{"meta": {"id": "sensor-20", "country": "United States"}, "temp": 13.62}
+{"device_id": "sensor-46", "event_time": "2025-12-17T13:11:07.066363", "temperature": "27.76", "country": "123"}
+{"device_id": "sensor-33", "event_time": "2025-12-17T13:08:07.066370", "temperature": 22.79, "country": "Germnay", "debug": "XppIf"}
+{"device_id": "sensor-31", "event_time": "2025-12-17T13:02:07.066378", "country": "FR"}
+{"device_id": "sensor-19", "event_time": "2025-12-17T13:28:07.066384", "temperature": "hot", "country": "USA"}
+{"meta": {"id": "sensor-27", "country": "123"}, "temp": 54.48}
+{"device_id": null, "event_time": "2025-12-17T13:24:07.066397", "temperature": 51.95, "country": "Sp@in"}
+{"device_id": "sensor-17", "event_time": "2025-12-17T11:58:07.066404", "temperature": -6.25, "country": "France"}
+{"device_id": "sensor-16", "event_time": "2025-12-17T13:29:07.066410", "temperature": 53.31, "country": "France"}
+{"meta": {"id": "sensor-21", "country": "USA"}, "temp": 30.42}
+{"this_is": "broken"
+{"device_id": null, "event_time": "2025-12-17T11:52:07.066427", "temperature": 28.61, "country": "USA"}
+THIS_IS_NOT_JSON
+{"meta": {"id": "sensor-48", "country": "france"}, "temp": 45.27}
+{"device_id": "sensor-26", "event_time": "2025-12-17T11:55:07.066445", "temperature": "hot", "country": "Sp@in"}
+THIS_IS_NOT_JSON
+{"device_id": "sensor-30", "event_time": "2025-12-17T11:46:07.066455", "temperature": 49.0, "country": "United States"}
+{"meta": {"id": "sensor-21", "country": "123"}, "temp": 5.28}
+{"this_is": "broken"
+{"device_id": "sensor-31", "event_time": "2025-12-17T12:10:07.066473", "temperature": -999, "country": "123"}
+{"device_id": null, "event_time": "2025-12-17T11:37:07.066479", "temperature": 39.08, "country": null}
+{"device_id": "sensor-40", "event_time": "2025-12-17T13:06:07.066486", "temperature": "hot", "country": null}
+{"device_id": "sensor-8", "event_time": "2025-12-17T12:08:07.066492", "temperature": 48.26, "country": "United States"}
+THIS_IS_NOT_JSON
+{"device_id": "sensor-4", "event_time": "2025-12-17T12:32:07.066503", "temperature": "44.5", "country": "Sp@in"}
+{"meta": {"id": "sensor-42", "country": "United States"}, "temp": -8.13}
+{"meta": {"id": "sensor-12", "country": "Sp@in"}, "temp": 19.35}
+THIS_IS_NOT_JSON
+{"device_id": "sensor-18", "event_time": "2025-12-17T11:40:07.066527", "temperature": "hot", "country": "123"}
+{"device_id": "sensor-46", "event_time": "2025-12-17T11:47:07.066533", "temperature": 1.24, "country": "france", "debug": "BfwLC"}
+{"device_id": "sensor-28", "event_time": "2025-12-17T13:02:07.066541", "temperature": 39.7, "country": ""}
+{"this_is": "broken"
+{"device_id": null, "event_time": "2025-12-17T13:02:07.066552", "temperature": -7.81, "country": null}
+THIS_IS_NOT_JSON
+{"device_id": "sensor-4", "event_time": "2025-12-17T12:41:07.066563", "temperature": -999, "country": "USA"}
+THIS_IS_NOT_JSON
+{"device_id": "sensor-6", "event_time": "2025-12-17T11:34:07.066573", "temperature": 28.36, "country": null}
+{"device_id": "sensor-20", "event_time": "2025-12-17T12:27:07.066580", "temperature": 31.31, "country": "USA"}
+{"device_id": null, "event_time": "2025-12-17T13:27:07.066587", "temperature": 1.22, "country": "123"}
+THIS_IS_NOT_JSON
+{"device_id": "sensor-47", "event_time": "2025-12-17T12:01:07.066598", "temperature": -999, "country": "123"}
+{"device_id": "sensor-30", "event_time": "2025-12-17T11:36:07.066604", "temperature": "57.89", "country": "USA"}
+{"device_id": "sensor-44", "event_time": "2025-12-17T13:24:07.066610", "temperature": -8.01, "country": null, "debug": "Xipog"}
+{"device_id": "sensor-16", "event_time": "2025-12-17T13:28:07.066618", "temperature": 29.63, "country": ""}
+THIS_IS_NOT_JSON
+{"device_id": "sensor-30", "event_time": "2025-12-17T13:14:07.066629", "temperature": -999, "country": "USA"}
+{"device_id": "sensor-9", "event_time": "2025-12-17T11:48:07.066635", "temperature": 29.17, "country": "FR", "debug": "Umauy"}
+{"device_id": "sensor-38", "event_time": "2025-12-17T12:09:07.066643", "country": "United States"}
+{"device_id": "sensor-9", "event_time": "2025-12-17T11:55:07.066649", "country": "France"}
+{"device_id": "sensor-44", "event_time": "2025-12-17T11:31:07.066655", "country": "USA"}
+THIS_IS_NOT_JSON
+{"this_is": "broken"
+{"device_id": "sensor-13", "event_time": "2025-12-17T11:36:07.066670", "temperature": "35.46", "country": null}
+{"device_id": "sensor-30", "event_time": "2025-12-17T11:40:07.066677", "temperature": 29.24, "country": "Germnay"}
+{"device_id": "sensor-47", "event_time": "2025-12-17T12:39:07.066683", "country": "France"}
+{"device_id": "sensor-10", "event_time": "2025-12-17T12:18:07.066690", "temperature": "hot", "country": null}
+{"device_id": "sensor-6", "event_time": "2025-12-17T13:10:07.066696", "temperature": 7.71, "country": "United States"}
+{"device_id": "sensor-45", "event_time": "2025-12-17T12:19:07.066703", "temperature": 36.16, "country": "Germnay"}
+{"device_id": "sensor-16", "event_time": "2025-12-17T12:46:07.066709", "temperature": 32.16, "country": ""}
+{"device_id": "sensor-32", "event_time": "2025-12-17T13:14:07.066715", "temperature": "hot", "country": "Sp@in"}
+{"device_id": "sensor-4", "event_time": "2025-12-17T12:37:07.066722", "temperature": "hot", "country": "France"}
+{"device_id": null, "event_time": "2025-12-17T13:27:07.066728", "temperature": 55.76, "country": ""}
+{"device_id": null, "event_time": "2025-12-17T12:22:07.066734", "temperature": 30.23, "country": "Germnay"}
+{"device_id": "sensor-18", "event_time": "2025-12-17T13:23:07.066741", "temperature": "hot", "country": "France"}
+{"this_is": "broken"
+{"device_id": "sensor-45", "event_time": "2025-12-17T12:29:07.066752", "temperature": "-1.76", "country": "Germnay"}
+{"device_id": "sensor-41", "event_time": "2025-12-17T12:04:07.066782", "temperature": 39.76, "country": "Sp@in", "debug": "rgwsf"}
+{"device_id": "sensor-9", "event_time": "2025-12-17T12:08:07.066790", "temperature": 21.97, "country": "FR", "debug": "QdZvQ"}
+{"device_id": "sensor-44", "event_time": "2025-12-17T11:35:07.066797", "temperature": 7.66, "country": "France", "debug": "uPAaP"}
+{"meta": {"id": "sensor-49", "country": "france"}, "temp": 11.75}
+THIS_IS_NOT_JSON
+{"meta": {"id": "sensor-40", "country": "USA"}, "temp": 47.92}
+{"this_is": "broken"
+{"device_id": "sensor-12", "event_time": "2025-12-17T12:22:07.066831", "temperature": -999, "country": "Sp@in"}
+{"device_id": "sensor-38", "event_time": "2025-12-17T12:37:07.066844", "temperature": "34.99", "country": "Germnay"}
+{"this_is": "broken"
+{"device_id": "sensor-25", "event_time": "2025-12-17T13:24:07.066864", "temperature": 28.64, "country": "Sp@in", "debug": "UoNSJ"}
+{"device_id": "sensor-29", "event_time": "2025-12-17T12:29:07.066875", "temperature": -999, "country": "Germnay"}
+{"device_id": "sensor-19", "event_time": "2025-12-17T13:05:07.066883", "temperature": "26.27", "country": "123"}
+THIS_IS_NOT_JSON
+{"device_id": "sensor-43", "event_time": "2025-12-17T13:12:07.066899", "temperature": 16.04, "country": "123"}
+{"this_is": "broken"
+{"this_is": "broken"
+{"device_id": "sensor-2", "event_time": "2025-12-17T12:40:07.066924", "country": "123"}
+THIS_IS_NOT_JSON
+{"device_id": "sensor-8", "event_time": "2025-12-17T13:07:07.066935", "temperature": "7.57", "country": "United States"}
+{"meta": {"id": "sensor-1", "country": "France"}, "temp": -7.53}
+{"device_id": "sensor-17", "event_time": "2025-12-17T12:13:07.066964", "temperature": -999, "country": "123"}
+{"device_id": "sensor-8", "event_time": "2025-12-17T12:18:07.066972", "temperature": -999, "country": "123"}
+{"device_id": "sensor-25", "event_time": "2025-12-17T12:55:07.066979", "country": "FR"}
+{"device_id": "sensor-38", "event_time": "2025-12-17T12:22:07.066985", "temperature": -999, "country": "FR"}
+{"device_id": "sensor-5", "event_time": "2025-12-17T11:53:07.066992", "country": "France"}
+{"device_id": "sensor-42", "event_time": "2025-12-17T11:43:07.066998", "temperature": -999, "country": "USA"}
+{"device_id": "sensor-41", "event_time": "2025-12-17T11:46:07.067004", "temperature": 22.99, "country": "france", "debug": "VxGRy"}
+{"meta": {"id": "sensor-34", "country": "france"}, "temp": -6.75}
+{"device_id": "sensor-5", "event_time": "2025-12-17T11:38:07.067020", "temperature": "4.4", "country": "FR"}
+{"device_id": "sensor-23", "event_time": "2025-12-17T12:56:07.067027", "temperature": "hot", "country": "123"}
+{"device_id": "sensor-38", "event_time": "2025-12-17T12:02:07.067034", "temperature": -999, "country": "Germnay"}
+{"device_id": null, "event_time": "2025-12-17T12:57:07.067040", "temperature": 14.58, "country": "France"}
+{"device_id": "sensor-24", "event_time": "2025-12-17T13:02:07.067047", "temperature": "hot", "country": "France"}
+{"device_id": null, "event_time": "2025-12-17T13:03:07.067053", "temperature": 11.53, "country": "france"}
+{"device_id": "sensor-26", "event_time": "2025-12-17T11:42:07.067060", "temperature": "hot", "country": "France"}
+{"device_id": "sensor-14", "event_time": "2025-12-17T12:03:07.067066", "country": "France"}
+{"this_is": "broken"
+{"device_id": "sensor-47", "event_time": "2025-12-17T13:28:07.067077", "temperature": 25.6, "country": "Sp@in"}
+{"this_is": "broken"
+{"meta": {"id": "sensor-17", "country": null}, "temp": 38.34}
+{"device_id": "sensor-21", "event_time": "2025-12-17T11:49:07.067095", "temperature": "2.09", "country": "123"}
+{"device_id": "sensor-26", "event_time": "2025-12-17T12:18:07.067102", "temperature": "20.64", "country": null}
+{"this_is": "broken"
+{"device_id": "sensor-7", "event_time": "2025-12-17T13:00:07.067114", "temperature": 30.74, "country": "France", "debug": "VxHUF"}
+THIS_IS_NOT_JSON
+{"device_id": "sensor-41", "event_time": "2025-12-17T13:00:07.067126", "temperature": 35.99, "country": "United States", "debug": "DVBCO"}
+{"device_id": "sensor-1", "event_time": "2025-12-17T11:45:07.067134", "temperature": "46.88", "country": "USA"}
+{"this_is": "broken"
+{"device_id": "sensor-5", "event_time": "2025-12-17T11:29:07.067145", "country": ""}
+THIS_IS_NOT_JSON
+{"device_id": "sensor-10", "event_time": "2025-12-17T11:52:07.067155", "temperature": "59.9", "country": "USA"}
+{"meta": {"id": "sensor-31", "country": "FR"}, "temp": 0.13}
+{"device_id": "sensor-10", "event_time": "2025-12-17T13:11:07.067168", "temperature": -999, "country": "France"}
+{"device_id": "sensor-33", "event_time": "2025-12-17T12:40:07.067175", "temperature": 31.79, "country": ""}
+{"device_id": "sensor-6", "event_time": "2025-12-17T13:03:07.067181", "temperature": 37.36, "country": "france"}
+{"device_id": "sensor-11", "event_time": "2025-12-17T13:25:07.067188", "temperature": 39.26, "country": "France", "debug": "HqoAX"}
+{"device_id": "sensor-16", "event_time": "2025-12-17T13:26:07.067195", "temperature": -999, "country": ""}
+{"meta": {"id": "sensor-21", "country": "USA"}, "temp": 14.92}
+{"device_id": "sensor-45", "event_time": "2025-12-17T11:54:07.067209", "temperature": 24.18, "country": "Germnay", "debug": "SAkLw"}
+{"device_id": "sensor-27", "event_time": "2025-12-17T12:35:07.067217", "temperature": "34.22", "country": "France"}
+{"device_id": "sensor-46", "event_time": "2025-12-17T11:48:07.067224", "temperature": 13.77, "country": "Germnay", "debug": "craxl"}
+{"meta": {"id": "sensor-31", "country": null}, "temp": 55.37}
+{"device_id": "sensor-3", "event_time": "2025-12-17T13:15:07.067238", "temperature": "13.28", "country": "France"}
+{"this_is": "broken"
+{"device_id": "sensor-26", "event_time": "2025-12-17T12:44:07.067248", "temperature": -999, "country": "United States"}
+{"this_is": "broken"
+{"device_id": "sensor-46", "event_time": "2025-12-17T11:54:07.067259", "temperature": "hot", "country": "Germnay"}
+{"this_is": "broken"
+{"device_id": "sensor-13", "event_time": "2025-12-17T12:10:07.067269", "temperature": "hot", "country": "france"}
+{"this_is": "broken"
+{"device_id": "sensor-5", "event_time": "2025-12-17T11:44:07.067280", "temperature": "hot", "country": "USA"}
+THIS_IS_NOT_JSON
+{"meta": {"id": "sensor-47", "country": null}, "temp": 29.4}
+{"device_id": "sensor-1", "event_time": "2025-12-17T13:04:07.067297", "temperature": -999, "country": "United States"}
+{"device_id": "sensor-20", "event_time": "2025-12-17T12:56:07.067304", "temperature": 14.42, "country": "USA", "debug": "ypZfm"}
+{"device_id": null, "event_time": "2025-12-17T13:05:07.067311", "temperature": 20.47, "country": "USA"}
+{"device_id": "sensor-1", "event_time": "2025-12-17T12:06:07.067318", "temperature": -5.22, "country": "france"}
+{"device_id": "sensor-4", "event_time": "2025-12-17T13:17:07.067324", "country": "Sp@in"}
+{"this_is": "broken"
+{"device_id": "sensor-44", "event_time": "2025-12-17T12:48:07.067335", "temperature": "hot", "country": "france"}
+{"device_id": "sensor-40", "event_time": "2025-12-17T11:50:07.067361", "temperature": "hot", "country": ""}
+{"device_id": "sensor-44", "event_time": "2025-12-17T13:12:07.067368", "temperature": "hot", "country": null}
+{"this_is": "broken"
+{"this_is": "broken"
+{"device_id": "sensor-45", "event_time": "2025-12-17T11:51:07.067383", "temperature": 35.14, "country": "Germnay", "debug": "SJIbM"}
+{"device_id": "sensor-22", "event_time": "2025-12-17T12:34:07.067391", "country": "Sp@in"}
+{"device_id": "sensor-43", "event_time": "2025-12-17T12:40:07.067397", "temperature": "hot", "country": "FR"}
+THIS_IS_NOT_JSON
+THIS_IS_NOT_JSON
+{"device_id": "sensor-11", "event_time": "2025-12-17T13:17:07.067412", "temperature": 8.65, "country": "Germnay", "debug": "gUauY"}
+THIS_IS_NOT_JSON
+{"device_id": "sensor-45", "event_time": "2025-12-17T13:19:07.067424", "temperature": -7.94, "country": "FR", "debug": "PWWbA"}
+{"meta": {"id": "sensor-19", "country": "123"}, "temp": 48.13}
+{"device_id": "sensor-35", "event_time": "2025-12-17T12:03:07.067438", "temperature": "hot", "country": "USA"}
+{"this_is": "broken"
+{"device_id": "sensor-12", "event_time": "2025-12-17T11:59:07.067448", "temperature": 23.55, "country": "123"}
+{"device_id": "sensor-12", "event_time": "2025-12-17T11:38:07.067455", "temperature": "36.31", "country": null}
+{"device_id": null, "event_time": "2025-12-17T12:48:07.067462", "temperature": 46.14, "country": ""}
+{"device_id": "sensor-24", "event_time": "2025-12-17T13:15:07.067468", "temperature": "hot", "country": "123"}
+{"device_id": "sensor-17", "event_time": "2025-12-17T13:10:07.067474", "temperature": -999, "country": null}
+THIS_IS_NOT_JSON
+{"meta": {"id": "sensor-37", "country": "FR"}, "temp": -7.48}
+THIS_IS_NOT_JSON
+{"device_id": "sensor-32", "event_time": "2025-12-17T12:00:07.067496", "temperature": "54.3", "country": "United States"}
+{"device_id": "sensor-27", "event_time": "2025-12-17T12:52:07.067503", "temperature": -999, "country": "Sp@in"}
+{"device_id": "sensor-18", "event_time": "2025-12-17T13:29:07.067509", "country": "123"}
+{"device_id": "sensor-27", "event_time": "2025-12-17T12:06:07.067515", "temperature": 32.9, "country": "Sp@in", "debug": "kbnvB"}
+{"meta": {"id": "sensor-4", "country": "United States"}, "temp": 23.83}
+{"device_id": "sensor-31", "event_time": "2025-12-17T11:58:07.067530", "temperature": "-5.56", "country": "FR"}
+{"device_id": "sensor-40", "event_time": "2025-12-17T12:46:07.067537", "temperature": -0.48, "country": "USA"}
+{"meta": {"id": "sensor-11", "country": ""}, "temp": 15.4}
+{"this_is": "broken"
+{"meta": {"id": "sensor-19", "country": "Sp@in"}, "temp": -1.97}
+{"device_id": "sensor-3", "event_time": "2025-12-17T12:43:07.067562", "country": null}
+{"device_id": "sensor-5", "event_time": "2025-12-17T12:30:07.067568", "temperature": -6.33, "country": "123"}
+{"meta": {"id": "sensor-43", "country": "Germnay"}, "temp": 30.3}
+{"device_id": "sensor-13", "event_time": "2025-12-17T12:17:07.067595", "country": "France"}
+{"device_id": "sensor-33", "event_time": "2025-12-17T12:04:07.067602", "country": ""}
+{"device_id": "sensor-11", "event_time": "2025-12-17T12:01:07.067608", "temperature": 4.12, "country": "United States", "debug": "hKVgR"}
+{"device_id": null, "event_time": "2025-12-17T11:39:07.067616", "temperature": 49.92, "country": "Germnay"}
+{"device_id": "sensor-37", "event_time": "2025-12-17T11:46:07.067623", "temperature": -999, "country": "Sp@in"}
+{"device_id": "sensor-27", "event_time": "2025-12-17T13:18:07.067629", "temperature": "45.59", "country": "123"}
+{"device_id": "sensor-21", "event_time": "2025-12-17T12:42:07.067636", "country": "FR"}
+THIS_IS_NOT_JSON
+THIS_IS_NOT_JSON
+{"device_id": "sensor-13", "event_time": "2025-12-17T12:52:07.067651", "temperature": "hot", "country": "FR"}
+{"device_id": "sensor-26", "event_time": "2025-12-17T12:28:07.067657", "temperature": "7.96", "country": "France"}
+THIS_IS_NOT_JSON
+{"device_id": "sensor-14", "event_time": "2025-12-17T11:47:07.067667", "temperature": -999, "country": "france"}
+{"meta": {"id": "sensor-16", "country": null}, "temp": 35.59}
+{"device_id": "sensor-8", "event_time": "2025-12-17T11:44:07.067680", "temperature": "25.28", "country": "Germnay"}
+{"device_id": "sensor-37", "event_time": "2025-12-17T11:46:07.067687", "temperature": -999, "country": "United States"}
+{"device_id": null, "event_time": "2025-12-17T12:49:07.067693", "temperature": 54.2, "country": "Sp@in"}
+{"device_id": "sensor-43", "event_time": "2025-12-17T13:09:07.067700", "temperature": "hot", "country": "USA"}
+THIS_IS_NOT_JSON
+{"device_id": "sensor-35", "event_time": "2025-12-17T11:32:07.067710", "country": "france"}
+THIS_IS_NOT_JSON
+{"device_id": "sensor-43", "event_time": "2025-12-17T13:22:07.067720", "temperature": 58.43, "country": "France", "debug": "Xtvmq"}
+{"device_id": "sensor-48", "event_time": "2025-12-17T11:57:07.067728", "temperature": -999, "country": "USA"}
+THIS_IS_NOT_JSON
+{"this_is": "broken"
+{"device_id": "sensor-4", "event_time": "2025-12-17T13:12:07.067743", "temperature": "hot", "country": "France"}
+{"meta": {"id": "sensor-33", "country": "Sp@in"}, "temp": 2.71}
+{"device_id": "sensor-4", "event_time": "2025-12-17T11:53:07.067756", "country": ""}
+{"device_id": "sensor-11", "event_time": "2025-12-17T13:02:07.067762", "temperature": "44.29", "country": "FR"}
+{"device_id": "sensor-38", "event_time": "2025-12-17T12:05:07.067769", "temperature": "23.43", "country": "USA"}
+{"device_id": "sensor-35", "event_time": "2025-12-17T13:01:07.067776", "temperature": "hot", "country": "United States"}
+THIS_IS_NOT_JSON
+THIS_IS_NOT_JSON
+{"device_id": "sensor-22", "event_time": "2025-12-17T11:47:07.067790", "temperature": "hot", "country": ""}
+{"device_id": "sensor-3", "event_time": "2025-12-17T13:26:07.067796", "country": null}
+{"this_is": "broken"
+{"device_id": "sensor-18", "event_time": "2025-12-17T13:22:07.067807", "temperature": 10.3, "country": "USA", "debug": "ErTZM"}
+{"meta": {"id": "sensor-30", "country": "france"}, "temp": 51.86}
+{"meta": {"id": "sensor-18", "country": "USA"}, "temp": 15.11}
+{"device_id": null, "event_time": "2025-12-17T11:54:07.067827", "temperature": 36.73, "country": "United States"}
+{"this_is": "broken"
+{"this_is": "broken"
+{"device_id": null, "event_time": "2025-12-17T12:54:07.067842", "temperature": 40.22, "country": ""}
+{"device_id": "sensor-48", "event_time": "2025-12-17T12:55:07.067848", "temperature": 39.43, "country": ""}
+{"this_is": "broken"
+{"device_id": "sensor-31", "event_time": "2025-12-17T11:33:07.067859", "temperature": "4.22", "country": "USA"}
+{"meta": {"id": "sensor-8", "country": "france"}, "temp": 2.38}
+{"device_id": null, "event_time": "2025-12-17T12:34:07.067872", "temperature": 10.04, "country": "USA"}
+{"this_is": "broken"
+{"device_id": "sensor-34", "event_time": "2025-12-17T13:20:07.067883", "temperature": 9.78, "country": "United States", "debug": "EuDrs"}
+{"device_id": null, "event_time": "2025-12-17T12:53:07.067891", "temperature": 32.68, "country": "USA"}
+{"this_is": "broken"
+{"device_id": null, "event_time": "2025-12-17T12:54:07.067902", "temperature": 52.53, "country": "USA"}
+{"device_id": "sensor-19", "event_time": "2025-12-17T11:57:07.067911", "temperature": "19.4", "country": "Germnay"}
+{"meta": {"id": "sensor-32", "country": ""}, "temp": 24.09}
+THIS_IS_NOT_JSON
+{"device_id": "sensor-44", "event_time": "2025-12-17T11:41:07.067931", "temperature": "hot", "country": "USA"}
+{"device_id": "sensor-16", "event_time": "2025-12-17T12:16:07.067937", "temperature": "hot", "country": "france"}
+{"meta": {"id": "sensor-15", "country": "france"}, "temp": 29.38}
+{"device_id": "sensor-19", "event_time": "2025-12-17T13:16:07.067950", "country": "Germnay"}
+{"device_id": null, "event_time": "2025-12-17T11:37:07.067956", "temperature": 35.33, "country": "Sp@in"}
+{"device_id": "sensor-16", "event_time": "2025-12-17T13:17:07.067962", "temperature": "hot", "country": "FR"}
+{"this_is": "broken"
+{"device_id": "sensor-14", "event_time": "2025-12-17T13:02:07.067972", "temperature": -999, "country": ""}
+{"device_id": "sensor-9", "event_time": "2025-12-17T12:26:07.067979", "temperature": "hot", "country": "FR"}
+{"device_id": "sensor-8", "event_time": "2025-12-17T13:00:07.067985", "temperature": -999, "country": "France"}
+{"device_id": "sensor-47", "event_time": "2025-12-17T12:16:07.067991", "temperature": -999, "country": null}
+{"device_id": null, "event_time": "2025-12-17T12:03:07.067998", "temperature": 47.19, "country": "France"}
+{"device_id": "sensor-22", "event_time": "2025-12-17T13:29:07.068004", "temperature": 26.35, "country": "Germnay"}
+{"device_id": "sensor-37", "event_time": "2025-12-17T12:25:07.068010", "temperature": "hot", "country": "France"}
+{"device_id": null, "event_time": "2025-12-17T12:31:07.068016", "temperature": 44.84, "country": null}
+{"device_id": "sensor-21", "event_time": "2025-12-17T12:05:07.068022", "country": "USA"}
+{"device_id": "sensor-43", "event_time": "2025-12-17T12:26:07.068028", "temperature": 1.43, "country": "USA", "debug": "TovOB"}
+{"meta": {"id": "sensor-42", "country": "France"}, "temp": 40.27}
+{"device_id": "sensor-35", "event_time": "2025-12-17T12:57:07.068044", "temperature": "-3.42", "country": "123"}
+{"device_id": "sensor-17", "event_time": "2025-12-17T12:51:07.068050", "country": "FR"}
+{"meta": {"id": "sensor-33", "country": "FR"}, "temp": 39.23}
+{"device_id": "sensor-24", "event_time": "2025-12-17T13:20:07.068063", "temperature": -6.13, "country": "FR", "debug": "FhayV"}
+{"meta": {"id": "sensor-45", "country": "Germnay"}, "temp": -7.93}
+THIS_IS_NOT_JSON
+{"meta": {"id": "sensor-4", "country": "Sp@in"}, "temp": 27.45}
+{"device_id": null, "event_time": "2025-12-17T12:25:07.068088", "temperature": 32.47, "country": "FR"}
+{"device_id": "sensor-44", "event_time": "2025-12-17T12:37:07.068095", "temperature": "hot", "country": "Germnay"}
+{"device_id": "sensor-25", "event_time": "2025-12-17T12:34:07.068101", "temperature": "hot", "country": "United States"}
+{"device_id": null, "event_time": "2025-12-17T13:04:07.068107", "temperature": 52.78, "country": null}
+{"device_id": "sensor-21", "event_time": "2025-12-17T12:29:07.068113", "temperature": "hot", "country": "USA"}
+{"device_id": "sensor-10", "event_time": "2025-12-17T11:58:07.068119", "temperature": -999, "country": "FR"}
+{"device_id": "sensor-36", "event_time": "2025-12-17T11:30:07.068126", "country": "United States"}
+{"device_id": "sensor-20", "event_time": "2025-12-17T12:20:07.068131", "temperature": "1.02", "country": "Sp@in"}
+{"device_id": "sensor-17", "event_time": "2025-12-17T13:15:07.068138", "country": "Germnay"}
+{"device_id": "sensor-14", "event_time": "2025-12-17T11:47:07.068144", "temperature": "6.09", "country": "Germnay"}
+{"device_id": "sensor-22", "event_time": "2025-12-17T11:59:07.068151", "temperature": "hot", "country": "france"}
+{"device_id": "sensor-12", "event_time": "2025-12-17T13:01:07.068157", "country": "USA"}
+{"meta": {"id": "sensor-44", "country": "123"}, "temp": 10.05}
+{"meta": {"id": "sensor-48", "country": "Germnay"}, "temp": -8.56}
+{"meta": {"id": "sensor-31", "country": "France"}, "temp": -7.72}
+{"device_id": "sensor-35", "event_time": "2025-12-17T11:49:07.068222", "temperature": -1.89, "country": ""}
+{"device_id": "sensor-15", "event_time": "2025-12-17T11:56:07.068229", "temperature": 29.17, "country": "123", "debug": "WHeEC"}
+{"device_id": "sensor-19", "event_time": "2025-12-17T13:18:07.068237", "temperature": "hot", "country": "Germnay"}
+{"device_id": "sensor-6", "event_time": "2025-12-17T12:51:07.068243", "temperature": "hot", "country": "France"}
+{"device_id": "sensor-10", "event_time": "2025-12-17T12:05:07.068250", "temperature": "51.86", "country": "Sp@in"}
+{"device_id": "sensor-10", "event_time": "2025-12-17T12:41:07.068256", "temperature": 3.76, "country": "FR"}
+{"device_id": null, "event_time": "2025-12-17T11:40:07.068263", "temperature": 54.5, "country": "USA"}
+{"meta": {"id": "sensor-45", "country": "123"}, "temp": 20.79}
+{"device_id": "sensor-50", "event_time": "2025-12-17T12:08:07.068277", "country": "United States"}
+THIS_IS_NOT_JSON
+{"device_id": "sensor-30", "event_time": "2025-12-17T12:46:07.068288", "country": "Germnay"}
+{"this_is": "broken"
+{"device_id": "sensor-14", "event_time": "2025-12-17T11:54:07.068298", "temperature": "2.22", "country": "United States"}
+{"device_id": "sensor-48", "event_time": "2025-12-17T11:46:07.068305", "temperature": -999, "country": "Germnay"}
+{"device_id": "sensor-34", "event_time": "2025-12-17T12:57:07.068311", "temperature": "hot", "country": "USA"}
+{"meta": {"id": "sensor-41", "country": "FR"}, "temp": -1.5}
+{"meta": {"id": "sensor-35", "country": "france"}, "temp": -6.4}
+{"device_id": "sensor-34", "event_time": "2025-12-17T13:13:07.068331", "temperature": 27.16, "country": "", "debug": "AQoZR"}
+THIS_IS_NOT_JSON
+{"this_is": "broken"
+{"meta": {"id": "sensor-19", "country": ""}, "temp": 39.87}
+{"device_id": "sensor-30", "event_time": "2025-12-17T12:33:07.068354", "temperature": "hot", "country": "USA"}
+{"device_id": "sensor-7", "event_time": "2025-12-17T13:08:07.068361", "temperature": "50.6", "country": "USA"}
+{"device_id": "sensor-20", "event_time": "2025-12-17T13:07:07.068368", "country": "Sp@in"}
+{"device_id": "sensor-28", "event_time": "2025-12-17T12:42:07.068374", "temperature": "hot", "country": "FR"}
+{"meta": {"id": "sensor-34", "country": ""}, "temp": 20.9}
+{"device_id": "sensor-16", "event_time": "2025-12-17T12:32:07.068387", "temperature": 58.5, "country": "France"}
+{"device_id": "sensor-22", "event_time": "2025-12-17T11:33:07.068393", "temperature": "34.57", "country": null}
+{"device_id": "sensor-47", "event_time": "2025-12-17T12:20:07.068400", "temperature": 53.97, "country": "FR"}
+{"device_id": "sensor-14", "event_time": "2025-12-17T13:05:07.068406", "temperature": 39.91, "country": "Sp@in", "debug": "FFivu"}
+{"device_id": "sensor-44", "event_time": "2025-12-17T12:05:07.068414", "country": "Germnay"}
+{"this_is": "broken"
+THIS_IS_NOT_JSON
+{"meta": {"id": "sensor-45", "country": "France"}, "temp": 32.35}
+{"device_id": null, "event_time": "2025-12-17T12:03:07.068435", "temperature": 21.77, "country": "france"}
+{"device_id": "sensor-20", "event_time": "2025-12-17T11:39:07.068441", "temperature": -999, "country": ""}
+{"this_is": "broken"
+{"meta": {"id": "sensor-18", "country": "FR"}, "temp": 54.45}
+{"device_id": null, "event_time": "2025-12-17T13:22:07.068459", "temperature": -3.49, "country": null}
+{"meta": {"id": "sensor-39", "country": "FR"}, "temp": 43.18}
+{"device_id": "sensor-37", "event_time": "2025-12-17T11:54:07.068472", "temperature": -999, "country": "France"}
+{"meta": {"id": "sensor-47", "country": "United States"}, "temp": 31.36}
+{"device_id": "sensor-13", "event_time": "2025-12-17T12:14:07.068485", "temperature": "1.93", "country": "france"}
+{"device_id": "sensor-8", "event_time": "2025-12-17T12:10:07.068491", "temperature": 58.66, "country": "Germnay"}
+{"device_id": "sensor-30", "event_time": "2025-12-17T12:22:07.068498", "temperature": "hot", "country": "123"}
+{"device_id": "sensor-26", "event_time": "2025-12-17T11:30:07.068504", "temperature": "24.5", "country": "France"}
+{"device_id": "sensor-40", "event_time": "2025-12-17T12:02:07.068511", "temperature": "15.8", "country": "France"}
+{"this_is": "broken"
+{"device_id": "sensor-21", "event_time": "2025-12-17T12:09:07.068522", "temperature": "hot", "country": "123"}
+{"device_id": "sensor-11", "event_time": "2025-12-17T13:21:07.068528", "temperature": 47.85, "country": "FR", "debug": "OCoDb"}
+{"device_id": "sensor-31", "event_time": "2025-12-17T11:32:07.068535", "temperature": "hot", "country": "FR"}
+{"meta": {"id": "sensor-9", "country": "United States"}, "temp": 37.25}
+THIS_IS_NOT_JSON
+{"device_id": "sensor-11", "event_time": "2025-12-17T12:24:07.068553", "temperature": 18.66, "country": ""}
+{"device_id": "sensor-26", "event_time": "2025-12-17T12:24:07.068559", "country": "United States"}
+{"device_id": "sensor-6", "event_time": "2025-12-17T11:48:07.068565", "country": null}
+{"device_id": "sensor-15", "event_time": "2025-12-17T12:07:07.068571", "temperature": 52.13, "country": null}
+{"device_id": null, "event_time": "2025-12-17T12:23:07.068578", "temperature": 56.67, "country": "USA"}
+{"device_id": "sensor-31", "event_time": "2025-12-17T12:21:07.068584", "temperature": -999, "country": null}
+{"device_id": null, "event_time": "2025-12-17T11:49:07.068590", "temperature": 30.19, "country": "Sp@in"}
+{"device_id": "sensor-12", "event_time": "2025-12-17T12:34:07.068597", "temperature": 52.33, "country": "Germnay"}
+{"device_id": "sensor-13", "event_time": "2025-12-17T12:59:07.068603", "temperature": "39.12", "country": "Sp@in"}
+{"this_is": "broken"
+THIS_IS_NOT_JSON
+{"meta": {"id": "sensor-13", "country": "FR"}, "temp": 10.84}
+{"device_id": "sensor-14", "event_time": "2025-12-17T13:06:07.068625", "temperature": 26.08, "country": null}
+{"device_id": "sensor-29", "event_time": "2025-12-17T12:14:07.068631", "temperature": 12.47, "country": "FR"}
+{"device_id": null, "event_time": "2025-12-17T13:23:07.068638", "temperature": -2.48, "country": "FR"}
+{"device_id": "sensor-45", "event_time": "2025-12-17T13:27:07.068644", "country": "Germnay"}
+{"device_id": "sensor-12", "event_time": "2025-12-17T12:55:07.068650", "temperature": 59.72, "country": "USA", "debug": "VTNSu"}
+{"device_id": "sensor-27", "event_time": "2025-12-17T12:34:07.068657", "temperature": "hot", "country": "france"}
+THIS_IS_NOT_JSON
+{"device_id": "sensor-41", "event_time": "2025-12-17T12:52:07.068668", "temperature": -999, "country": "123"}
+{"device_id": "sensor-46", "event_time": "2025-12-17T11:47:07.068674", "temperature": "hot", "country": ""}
+{"device_id": null, "event_time": "2025-12-17T13:04:07.068680", "temperature": 30.65, "country": "FR"}
+{"device_id": "sensor-15", "event_time": "2025-12-17T13:07:07.068687", "temperature": -999, "country": "France"}
+{"device_id": "sensor-26", "event_time": "2025-12-17T13:05:07.068693", "temperature": 47.86, "country": "Sp@in"}
+{"device_id": "sensor-47", "event_time": "2025-12-17T12:37:07.068700", "temperature": 11.09, "country": "123"}
+{"device_id": "sensor-27", "event_time": "2025-12-17T13:01:07.068707", "temperature": "hot", "country": ""}
+{"device_id": "sensor-6", "event_time": "2025-12-17T12:33:07.068713", "temperature": 19.62, "country": null, "debug": "eTIAl"}
+{"device_id": "sensor-43", "event_time": "2025-12-17T12:39:07.068720", "temperature": -999, "country": null}
+{"meta": {"id": "sensor-50", "country": null}, "temp": 51.76}
+{"meta": {"id": "sensor-45", "country": "france"}, "temp": 49.6}
+{"device_id": "sensor-40", "event_time": "2025-12-17T13:28:07.068740", "temperature": 34.62, "country": null, "debug": "DxXIP"}
+{"device_id": null, "event_time": "2025-12-17T12:57:07.068747", "temperature": -3.38, "country": "Sp@in"}
+{"device_id": "sensor-42", "event_time": "2025-12-17T11:45:07.068754", "temperature": -999, "country": "Sp@in"}
+{"device_id": "sensor-47", "event_time": "2025-12-17T12:17:07.068760", "country": ""}
+{"meta": {"id": "sensor-37", "country": "france"}, "temp": 57.11}
+{"device_id": "sensor-26", "event_time": "2025-12-17T13:08:07.068778", "temperature": -999, "country": ""}
+{"meta": {"id": "sensor-46", "country": ""}, "temp": 5.98}
+{"device_id": "sensor-39", "event_time": "2025-12-17T12:51:07.068803", "temperature": -3.06, "country": null, "debug": "HPyrC"}
+{"device_id": "sensor-31", "event_time": "2025-12-17T11:38:07.068812", "temperature": 9.62, "country": "france", "debug": "ShzHY"}
+{"device_id": "sensor-26", "event_time": "2025-12-17T13:16:07.068820", "temperature": 23.43, "country": "United States", "debug": "WcuDE"}
+{"device_id": "sensor-32", "event_time": "2025-12-17T12:18:07.068827", "country": "United States"}
+{"device_id": "sensor-17", "event_time": "2025-12-17T11:53:07.068834", "temperature": "50.65", "country": "Sp@in"}
+{"device_id": "sensor-5", "event_time": "2025-12-17T12:33:07.068841", "temperature": 40.67, "country": null}
+{"this_is": "broken"
+{"device_id": "sensor-47", "event_time": "2025-12-17T12:02:07.068851", "country": null}
+THIS_IS_NOT_JSON
+{"device_id": "sensor-27", "event_time": "2025-12-17T12:55:07.068861", "temperature": "26.24", "country": "france"}
+{"device_id": "sensor-7", "event_time": "2025-12-17T13:09:07.068868", "temperature": -999, "country": "France"}
+{"device_id": "sensor-17", "event_time": "2025-12-17T11:39:07.068874", "temperature": "hot", "country": null}
+{"device_id": "sensor-2", "event_time": "2025-12-17T12:07:07.068880", "temperature": -999, "country": "United States"}
+{"device_id": "sensor-36", "event_time": "2025-12-17T12:55:07.068887", "temperature": 51.92, "country": ""}
+{"device_id": "sensor-6", "event_time": "2025-12-17T12:38:07.068893", "temperature": "hot", "country": "United States"}
+{"device_id": null, "event_time": "2025-12-17T12:03:07.068899", "temperature": 13.55, "country": "United States"}
+{"device_id": "sensor-37", "event_time": "2025-12-17T11:46:07.068907", "country": "USA"}
+{"this_is": "broken"
+{"device_id": "sensor-2", "event_time": "2025-12-17T13:09:07.068921", "country": "USA"}
+{"meta": {"id": "sensor-39", "country": ""}, "temp": 18.65}
+{"device_id": "sensor-20", "event_time": "2025-12-17T13:27:07.068934", "temperature": -999, "country": null}
+THIS_IS_NOT_JSON
+{"device_id": "sensor-33", "event_time": "2025-12-17T12:16:07.068945", "temperature": "4.98", "country": "France"}
+{"device_id": "sensor-50", "event_time": "2025-12-17T13:27:07.068952", "temperature": "15.75", "country": "USA"}
+{"device_id": "sensor-8", "event_time": "2025-12-17T12:21:07.068959", "temperature": 14.95, "country": "USA", "debug": "PVglT"}
+{"meta": {"id": "sensor-13", "country": "france"}, "temp": 42.72}
+{"meta": {"id": "sensor-20", "country": "Germnay"}, "temp": 46.36}
+{"meta": {"id": "sensor-2", "country": "USA"}, "temp": 55.8}
+{"device_id": "sensor-39", "event_time": "2025-12-17T13:28:07.068987", "temperature": "hot", "country": "123"}
+{"device_id": "sensor-15", "event_time": "2025-12-17T11:44:07.068993", "temperature": -999, "country": "USA"}
+{"device_id": null, "event_time": "2025-12-17T12:16:07.068999", "temperature": 42.71, "country": null}
+{"device_id": "sensor-13", "event_time": "2025-12-17T12:08:07.069006", "temperature": 21.11, "country": "France", "debug": "uiqQV"}
+{"device_id": null, "event_time": "2025-12-17T12:45:07.069014", "temperature": 13.01, "country": "FR"}
+{"device_id": "sensor-19", "event_time": "2025-12-17T13:24:07.069020", "temperature": "39.7", "country": "FR"}
+{"device_id": "sensor-33", "event_time": "2025-12-17T12:44:07.069027", "temperature": 17.51, "country": "United States", "debug": "IwWlf"}
+THIS_IS_NOT_JSON
+{"meta": {"id": "sensor-10", "country": "france"}, "temp": 31.4}
+{"device_id": "sensor-29", "event_time": "2025-12-17T12:49:07.069046", "temperature": -999, "country": "123"}
+{"meta": {"id": "sensor-7", "country": "USA"}, "temp": 21.16}
+THIS_IS_NOT_JSON
+{"device_id": "sensor-11", "event_time": "2025-12-17T12:01:07.069063", "temperature": 6.07, "country": ""}
+{"device_id": "sensor-28", "event_time": "2025-12-17T12:11:07.069069", "country": null}
+THIS_IS_NOT_JSON
+THIS_IS_NOT_JSON
+{"device_id": "sensor-3", "event_time": "2025-12-17T11:58:07.069084", "temperature": 56.52, "country": "France", "debug": "ZorSR"}
+{"device_id": null, "event_time": "2025-12-17T13:05:07.069092", "temperature": 2.17, "country": "123"}
+{"device_id": "sensor-48", "event_time": "2025-12-17T12:13:07.069098", "temperature": -999, "country": "FR"}
+{"this_is": "broken"
+{"device_id": "sensor-26", "event_time": "2025-12-17T13:17:07.069109", "country": "United States"}
+{"this_is": "broken"
+{"meta": {"id": "sensor-18", "country": "Sp@in"}, "temp": 38.68}
+{"device_id": null, "event_time": "2025-12-17T12:35:07.069126", "temperature": 6.87, "country": "123"}
+{"device_id": "sensor-12", "event_time": "2025-12-17T11:54:07.069133", "temperature": -999, "country": "United States"}
+{"meta": {"id": "sensor-41", "country": "USA"}, "temp": 47.44}
+{"device_id": "sensor-37", "event_time": "2025-12-17T12:51:07.069145", "temperature": "53.83", "country": "FR"}
+{"device_id": "sensor-28", "event_time": "2025-12-17T11:51:07.069152", "temperature": "hot", "country": "Sp@in"}
+{"meta": {"id": "sensor-27", "country": "123"}, "temp": 30.75}
+{"device_id": "sensor-45", "event_time": "2025-12-17T12:28:07.069165", "temperature": -999, "country": "123"}
+{"device_id": "sensor-16", "event_time": "2025-12-17T12:41:07.069171", "temperature": "hot", "country": "USA"}
+THIS_IS_NOT_JSON
+{"device_id": "sensor-5", "event_time": "2025-12-17T11:35:07.069182", "temperature": 35.8, "country": "France", "debug": "aJcwM"}
+{"device_id": "sensor-5", "event_time": "2025-12-17T13:14:07.069189", "temperature": 27.9, "country": "United States", "debug": "AqeSk"}
+{"meta": {"id": "sensor-31", "country": "france"}, "temp": 26.17}
+{"device_id": null, "event_time": "2025-12-17T12:14:07.069204", "temperature": 50.89, "country": "Sp@in"}
+{"meta": {"id": "sensor-10", "country": ""}, "temp": 28.88}
+{"device_id": "sensor-1", "event_time": "2025-12-17T12:55:07.069217", "temperature": "5.13", "country": "Germnay"}
+{"this_is": "broken"
+{"device_id": null, "event_time": "2025-12-17T13:13:07.069228", "temperature": 20.48, "country": "France"}
+{"device_id": "sensor-24", "event_time": "2025-12-17T12:23:07.069235", "temperature": 17.61, "country": "Sp@in", "debug": "Inpjz"}
+{"device_id": "sensor-17", "event_time": "2025-12-17T13:29:07.069243", "country": "Sp@in"}
+{"meta": {"id": "sensor-38", "country": "United States"}, "temp": 56.78}
+{"meta": {"id": "sensor-24", "country": null}, "temp": 37.96}
+{"device_id": "sensor-21", "event_time": "2025-12-17T12:45:07.069262", "country": "france"}
+{"device_id": "sensor-3", "event_time": "2025-12-17T13:08:07.069268", "temperature": -999, "country": "france"}
+{"meta": {"id": "sensor-6", "country": null}, "temp": 53.85}
+{"device_id": "sensor-1", "event_time": "2025-12-17T11:47:07.069281", "temperature": 49.73, "country": "123", "debug": "nglkJ"}
+{"device_id": "sensor-36", "event_time": "2025-12-17T13:12:07.069289", "country": "France"}
+{"device_id": "sensor-41", "event_time": "2025-12-17T12:00:07.069295", "temperature": "54.49", "country": null}
+{"device_id": "sensor-22", "event_time": "2025-12-17T11:47:07.069302", "country": "FR"}
+{"this_is": "broken"
+{"meta": {"id": "sensor-23", "country": "USA"}, "temp": -7.56}
+{"this_is": "broken"
+{"device_id": "sensor-41", "event_time": "2025-12-17T11:43:07.069323", "temperature": "26.58", "country": "United States"}
+{"device_id": "sensor-34", "event_time": "2025-12-17T13:28:07.069329", "temperature": 15.33, "country": null, "debug": "MLVca"}
+THIS_IS_NOT_JSON
+{"meta": {"id": "sensor-42", "country": "france"}, "temp": 10.45}
+{"device_id": "sensor-31", "event_time": "2025-12-17T11:43:07.069348", "temperature": "32.64", "country": ""}
+{"device_id": "sensor-8", "event_time": "2025-12-17T12:34:07.069354", "temperature": 58.96, "country": "Germnay"}
+{"this_is": "broken"
+{"device_id": "sensor-47", "event_time": "2025-12-17T12:42:07.069365", "temperature": -999, "country": "Germnay"}
+THIS_IS_NOT_JSON
+{"device_id": "sensor-37", "event_time": "2025-12-17T12:38:07.069375", "temperature": 50.86, "country": "Sp@in", "debug": "PihrY"}
+{"this_is": "broken"
+{"device_id": null, "event_time": "2025-12-17T11:29:07.069387", "temperature": 1.55, "country": "123"}
+{"device_id": "sensor-16", "event_time": "2025-12-17T11:59:07.069405", "temperature": 50.51, "country": "Germnay", "debug": "qdbTm"}
+{"meta": {"id": "sensor-39", "country": "france"}, "temp": -1.53}
+{"device_id": "sensor-1", "event_time": "2025-12-17T13:10:07.069421", "temperature": 49.99, "country": "USA", "debug": "fkqkd"}
+{"device_id": "sensor-2", "event_time": "2025-12-17T11:29:07.069429", "country": "United States"}
+{"this_is": "broken"
+{"device_id": "sensor-37", "event_time": "2025-12-17T12:00:07.069439", "temperature": "32.36", "country": "france"}
+{"device_id": "sensor-30", "event_time": "2025-12-17T12:27:07.069446", "temperature": -2.49, "country": "France"}
+{"device_id": "sensor-39", "event_time": "2025-12-17T13:02:07.069452", "temperature": 40.45, "country": "Sp@in"}
+{"device_id": "sensor-27", "event_time": "2025-12-17T12:17:07.069459", "temperature": -999, "country": "FR"}
+{"device_id": "sensor-21", "event_time": "2025-12-17T11:58:07.069465", "temperature": -0.25, "country": "Germnay"}
+{"device_id": "sensor-47", "event_time": "2025-12-17T12:04:07.069476", "temperature": "33.13", "country": "Sp@in"}
+{"device_id": "sensor-44", "event_time": "2025-12-17T13:24:07.069482", "country": "USA"}
+{"meta": {"id": "sensor-10", "country": "Germnay"}, "temp": -9.38}
+{"device_id": "sensor-23", "event_time": "2025-12-17T11:43:07.069495", "temperature": 20.96, "country": "Sp@in"}
+{"device_id": "sensor-12", "event_time": "2025-12-17T12:43:07.069502", "temperature": "59.23", "country": null}
+{"device_id": "sensor-35", "event_time": "2025-12-17T11:34:07.069508", "temperature": -999, "country": "USA"}
+{"device_id": null, "event_time": "2025-12-17T12:01:07.069515", "temperature": 34.54, "country": "Germnay"}
+{"device_id": null, "event_time": "2025-12-17T11:42:07.069521", "temperature": -4.32, "country": null}
+{"this_is": "broken"
+{"device_id": "sensor-5", "event_time": "2025-12-17T11:36:07.069532", "country": "Germnay"}
+{"device_id": "sensor-2", "event_time": "2025-12-17T12:43:07.069538", "temperature": 15.94, "country": "Sp@in", "debug": "jCJnp"}
+{"meta": {"id": "sensor-48", "country": "FR"}, "temp": 21.72}
+{"device_id": "sensor-47", "event_time": "2025-12-17T13:21:07.069552", "country": null}
+{"meta": {"id": "sensor-9", "country": "Sp@in"}, "temp": 40.57}
+{"device_id": "sensor-50", "event_time": "2025-12-17T11:32:07.069565", "country": "Sp@in"}
+{"device_id": "sensor-24", "event_time": "2025-12-17T12:20:07.069571", "temperature": "2.44", "country": null}
+{"device_id": "sensor-2", "event_time": "2025-12-17T11:56:07.069578", "temperature": 47.24, "country": "FR", "debug": "xkxcE"}
+{"device_id": "sensor-42", "event_time": "2025-12-17T12:33:07.069585", "temperature": "56.61", "country": "Germnay"}
+{"device_id": "sensor-22", "event_time": "2025-12-17T12:50:07.069592", "temperature": -5.08, "country": "Sp@in", "debug": "dAWhn"}
+{"device_id": null, "event_time": "2025-12-17T12:35:07.069599", "temperature": 20.4, "country": "USA"}
+{"meta": {"id": "sensor-22", "country": "USA"}, "temp": 4.95}
+{"device_id": "sensor-14", "event_time": "2025-12-17T11:40:07.069612", "temperature": 27.78, "country": null}
+{"device_id": "sensor-10", "event_time": "2025-12-17T12:49:07.069619", "temperature": "hot", "country": "France"}
+{"device_id": "sensor-16", "event_time": "2025-12-17T12:54:07.069625", "temperature": "25.79", "country": null}
+{"device_id": "sensor-15", "event_time": "2025-12-17T12:50:07.069631", "temperature": 54.44, "country": "france", "debug": "Brjgy"}
+{"device_id": "sensor-40", "event_time": "2025-12-17T12:41:07.069639", "temperature": -5.87, "country": "France", "debug": "rAopj"}
+{"this_is": "broken"
+THIS_IS_NOT_JSON
+{"device_id": null, "event_time": "2025-12-17T12:25:07.069655", "temperature": -9.55, "country": "FR"}
+{"meta": {"id": "sensor-5", "country": "United States"}, "temp": 17.4}
+{"device_id": "sensor-15", "event_time": "2025-12-17T11:58:07.069668", "temperature": "hot", "country": "Germnay"}
+THIS_IS_NOT_JSON
+{"device_id": "sensor-29", "event_time": "2025-12-17T13:03:07.069678", "temperature": 54.91, "country": null, "debug": "mfKbs"}
+{"device_id": "sensor-19", "event_time": "2025-12-17T12:52:07.069686", "country": "United States"}
+{"device_id": "sensor-32", "event_time": "2025-12-17T12:53:07.069692", "temperature": "hot", "country": ""}
+THIS_IS_NOT_JSON
+{"this_is": "broken"
+{"device_id": null, "event_time": "2025-12-17T12:13:07.069706", "temperature": -9.25, "country": "Sp@in"}
+{"meta": {"id": "sensor-20", "country": "USA"}, "temp": 43.47}
+{"meta": {"id": "sensor-4", "country": "FR"}, "temp": 55.12}
+{"device_id": "sensor-3", "event_time": "2025-12-17T11:34:07.069726", "country": "France"}
+{"this_is": "broken"
+{"device_id": "sensor-29", "event_time": "2025-12-17T12:19:07.069736", "temperature": "hot", "country": "Germnay"}
+{"device_id": "sensor-3", "event_time": "2025-12-17T12:37:07.069743", "temperature": "1.61", "country": "United States"}
+{"device_id": "sensor-31", "event_time": "2025-12-17T12:24:07.069749", "country": "France"}
+{"this_is": "broken"
+{"device_id": "sensor-22", "event_time": "2025-12-17T11:38:07.069760", "temperature": "19.51", "country": "USA"}
+{"meta": {"id": "sensor-20", "country": "france"}, "temp": 9.97}
+{"device_id": "sensor-18", "event_time": "2025-12-17T12:43:07.069773", "temperature": "hot", "country": "Germnay"}
+{"this_is": "broken"
+{"device_id": "sensor-2", "event_time": "2025-12-17T12:02:07.069783", "country": "Sp@in"}
+THIS_IS_NOT_JSON
+{"device_id": "sensor-20", "event_time": "2025-12-17T12:19:07.069794", "country": "United States"}
+{"device_id": "sensor-40", "event_time": "2025-12-17T12:35:07.069799", "temperature": "41.97", "country": "france"}
+{"device_id": null, "event_time": "2025-12-17T12:24:07.069806", "temperature": 38.11, "country": "Germnay"}
+{"device_id": "sensor-26", "event_time": "2025-12-17T11:52:07.069813", "temperature": 36.46, "country": "Sp@in"}
