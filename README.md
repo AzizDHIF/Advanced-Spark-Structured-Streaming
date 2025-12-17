@@ -1,10 +1,10 @@
-# Lab 2 — Advanced Spark Structured Streaming  
+# Lab — Advanced Spark Structured Streaming  
 ## Time, State, and Data Quality
 
 ---
 
 ## Context
-In Lab 1, you learned how to connect Kafka to Spark Structured Streaming and apply basic transformations.
+In Lab 1 for Spark Streaming, you learned how to connect Kafka to Spark Structured Streaming and apply basic transformations.
 
 In this lab, you will work with **structured but dirty streaming data** and explore the **core challenges of real-world stream processing**:
 state, event time, windowing, watermarks, and data quality.
